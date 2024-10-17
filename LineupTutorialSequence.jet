@@ -1,0 +1,46 @@
+{
+ "content": [
+  {
+   "countrySpecific": false,
+   "id": "93597",
+   "isValid": "",
+   "items": [
+    "Beans",
+    "Grinder",
+    "Filter",
+    "Milk",
+    "Coffee"
+   ],
+   "prompt": "",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93598",
+   "isValid": "",
+   "items": [
+    "Bowl",
+    "Cereal",
+    "Milk",
+    "Spoon",
+    "Eat Cereal"
+   ],
+   "prompt": "",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93599",
+   "isValid": "",
+   "items": [
+    "Battleworn Insomniac",
+    "All the Times",
+    "One Shift More",
+    "Know You",
+    "Dreams Don't Stop"
+   ],
+   "prompt": "",
+   "x": false
+  }
+ ]
+}

@@ -1,0 +1,1327 @@
+{
+ "content": [
+  {
+   "countrySpecific": false,
+   "id": "92560",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM SAMURAI",
+   "teamTwo": "TEAM INSOMNIAC",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92584",
+   "isValid": "",
+   "nameAnnouncement": "TEAM FIRE VERSUS TEAM ICE",
+   "teamOne": "TEAM FIRE",
+   "teamTwo": "TEAM ICE",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92561",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM NORMAL DOOR",
+   "teamTwo": "TEAM SCARY DOOR",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92562",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM RD",
+   "teamTwo": "TEAM ADOFAI",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92563",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM UPSIDE-DOWN",
+   "teamTwo": "TEAM TOPSY-TURVY",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92564",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM SCREAMING INTERNALLY",
+   "teamTwo": "TEAM SCREAMING EXTERNALLY",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92565",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM TETO",
+   "teamTwo": "TEAM MIKU",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92566",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM QUICK SORT",
+   "teamTwo": "TEAM BOGO SORT",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92567",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM IT'S SO QUIXOVER",
+   "teamTwo": "TEAM WE'RE SO QUIXBACK",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92568",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM RADIOACTIVE HONEY",
+   "teamTwo": "TEAM WINE GLASS",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92569",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM ADA",
+   "teamTwo": "TEAM IAN",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92570",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM ADAM",
+   "teamTwo": "TEAM BEN",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92571",
+   "isValid": "",
+   "nameAnnouncement": "TEAM BEEF VERSUS TEAM CHICKEN",
+   "teamOne": "TEAM RAW BEEF",
+   "teamTwo": "TEAM RAW CHICKEN",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92572",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM INTERNS",
+   "teamTwo": "TEAM PLANETS",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92573",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM BLUE",
+   "teamTwo": "TEAM RED",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92574",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM HYDROGEN BOMB",
+   "teamTwo": "TEAM COUGHING BABY",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92575",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM SIGMA GRINDSET",
+   "teamTwo": "TEAM ALPHA WOLF",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92576",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM LETTERS",
+   "teamTwo": "TEAM NUMBERS",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92577",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM HYPERBOLICA",
+   "teamTwo": "TEAM 4D GOLF",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92578",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM #TRADING-CARDS",
+   "teamTwo": "TEAM #COFFEE-SHOP",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92579",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM TACHYCARDIA",
+   "teamTwo": "TEAM RHS-WAITING-ROOM",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92580",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM GENOCIDE",
+   "teamTwo": "TEAM PACIFIST",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92581",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM LIONS",
+   "teamTwo": "TEAM POKEMON",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92582",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM UM.",
+   "teamTwo": "TEAM UH.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92583",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM STEAMPUNK",
+   "teamTwo": "TEAM CYBERPUNK",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92585",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM UNDERTALE",
+   "teamTwo": "TEAM DELTARUNE",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92586",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM DOORS",
+   "teamTwo": "TEAM PRESSURE",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92587",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM FROG",
+   "teamTwo": "TEAM DUCK",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92588",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM NUH-UH",
+   "teamTwo": "TEAM YUH-HUH",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92589",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM WHIP",
+   "teamTwo": "TEAM NAE NAE",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92590",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM WORK",
+   "teamTwo": "TEAM MATE",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92591",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM 100 CHICKEN-SIZED ZOMBIES",
+   "teamTwo": "TEAM 10 ZOMBIE-SIZED CHICKENS",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92592",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM SKRIBBLIO",
+   "teamTwo": "TEAM GARTIC PHONE",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92593",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM QUIRKY",
+   "teamTwo": "TEAM SILLY",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92594",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM SNACK ZONE",
+   "teamTwo": "TEAM CHOO CHOO CHEW",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92595",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM JEVIL",
+   "teamTwo": "TEAM SPAMTON",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92596",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM STEAM",
+   "teamTwo": "TEAM ITCH.IO",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92597",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM SQUARE",
+   "teamTwo": "TEAM REVERENCE",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92598",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM RIGHT",
+   "teamTwo": "TEAM LEFT",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92599",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM :PLEADING:",
+   "teamTwo": "TEAM :SOB:",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92600",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM CATACLYSM",
+   "teamTwo": "TEAM BLOODBATH",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92601",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM RUSH E",
+   "teamTwo": "TEAM PLUM R",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92602",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM COOKIE MASTERSON",
+   "teamTwo": "TEAM BISCUIT AMATEURSON",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92603",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM PLANTS",
+   "teamTwo": "TEAM ZOMBIES",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92604",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM NINTENDO SWITCH",
+   "teamTwo": "TEAM WII U",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92605",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM NINTENDO",
+   "teamTwo": "TEAM SEGA",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92606",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM MADELINE",
+   "teamTwo": "TEAM BADELINE",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92607",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM BACON",
+   "teamTwo": "TEAM GAMES",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92608",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM",
+   "teamTwo": "MEAT",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92609",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM AVENGERS",
+   "teamTwo": "TEAM AVEENERS",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92610",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM STEAMED CLAMS",
+   "teamTwo": "TEAM STEAMED HAMS",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92611",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM XNOPYT",
+   "teamTwo": "TEAM AAAAAAAJJJJJJJJJ",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92612",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM SCOTT CAWTHON",
+   "teamTwo": "TEAM TOBY FOX",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92613",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM WALMART",
+   "teamTwo": "TEAM TARGET",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92614",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM HEAT MISER",
+   "teamTwo": "TEAM SNOW MISER",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92615",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM COMEDY",
+   "teamTwo": "TEAM TRAGEDY",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92616",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM SEF",
+   "teamTwo": "TEAM CHARLA",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92617",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM GTG",
+   "teamTwo": "TEAM BRB",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92618",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM LOL",
+   "teamTwo": "TEAM LMAO",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92619",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM FORGOR",
+   "teamTwo": "TEAM REMBER",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92620",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM YOUR ANGLE",
+   "teamTwo": "TEAM YUOR DEVIL",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92622",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM SNORK MIMIMI",
+   "teamTwo": "TEAM HONK SHOO",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92621",
+   "isValid": "",
+   "nameAnnouncement": "TEAM COFFEE VERSUS TEAM TEA",
+   "teamOne": "TEAM COFFEE",
+   "teamTwo": "TEAM TEA",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92623",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM PARKOUR PRO",
+   "teamTwo": "TEAM PVP BOSS",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92624",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM JSAB",
+   "teamTwo": "TEAM PA",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92625",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM CLASSICS",
+   "teamTwo": "TEAM ONESHOTS",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92626",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM P-BODY",
+   "teamTwo": "TEAM ATLAS",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92627",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM CADENCE",
+   "teamTwo": "TEAM OCTAVIAN",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92628",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM GRIAN",
+   "teamTwo": "TEAM MUMBO",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92629",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM MINE",
+   "teamTwo": "TEAM CRAFT",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92630",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM MARIO",
+   "teamTwo": "TEAM LUIGI",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92631",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM CAPITALISM",
+   "teamTwo": "TEAM COMMUNISM",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92632",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM ALEX",
+   "teamTwo": "TEAM STEVE",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92633",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM LIQUID",
+   "teamTwo": "TEAM SOLID",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92634",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM MILK",
+   "teamTwo": "TEAM LACTOSE INTOLERANT",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92635",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM MONKEY",
+   "teamTwo": "TEAM BLOONS",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92636",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM PROJECT MOON",
+   "teamTwo": "TEAM HANABI",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92637",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM YIPPEE!",
+   "teamTwo": "TEAM YAHOO!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92638",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM POINTLESS",
+   "teamTwo": "TEAM 39 BURIED",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92639",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM TEAM",
+   "teamTwo": "JOB JOB",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92640",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM LUNACY",
+   "teamTwo": "TEAM ENKEPHALIN",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92641",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM OMORI",
+   "teamTwo": "TEAM SUNNY",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92642",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM GAME CHANGER",
+   "teamTwo": "TEAM DIMENSION 20",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92643",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM HOLLOW KNIGHT",
+   "teamTwo": "TEAM SHOVEL KNIGHT",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92644",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM CREWMATE",
+   "teamTwo": "TEAM IMPOSTER",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92645",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM APPLIED ENERGISTICS 2",
+   "teamTwo": "TEAM REFINED STORAGE",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92646",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM MASCOT HORROR",
+   "teamTwo": "TEAM QUIRKY EARTHBOUND RPG",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92647",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM YAY",
+   "teamTwo": "TEAM NAY",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92648",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM POKEMON",
+   "teamTwo": "TEAM DIGIMON",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92649",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM -X-X-X",
+   "teamTwo": "TEAM -XX-XX",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92650",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM HOTEL MARIO",
+   "teamTwo": "TEAM LINK THE FACES OF EVIL",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92651",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM FIBBAGE",
+   "teamTwo": "TEAM DRAWFUL",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92652",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM /J",
+   "teamTwo": "TEAM /SRS",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92653",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM FACES OF EVIL",
+   "teamTwo": "TEAM WAND OF GAMELON",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92654",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM GIF",
+   "teamTwo": "TEAM JIF",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92655",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM I'M IN YOUR WALLS",
+   "teamTwo": "TEAM I HAVE YOUR IP ADDRESS",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92656",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM WRIGHT",
+   "teamTwo": "TEAM EDGEWORTH",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92657",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM DEAL",
+   "teamTwo": "TEAM NO DEAL",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92658",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM IRON LOTUS",
+   "teamTwo": "TEAM CHILDREN OF THE CITY",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92659",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM PASSIVE",
+   "teamTwo": "TEAM AGGRESSIVE",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92660",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM ALL OUT STRUGGLE",
+   "teamTwo": "TEAM UNCONTROLLABLE POWER",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92661",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM UNSTOPPABLE FORCE",
+   "teamTwo": "TEAM IMMOVABLE OBJECT",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92662",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM LEFT TRASH MONSTER",
+   "teamTwo": "TEAM RIGHT TRASH MONSTER",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92663",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM TRUST ME BRO",
+   "teamTwo": "TEAM IT CAME TO ME IN A DREAM",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92664",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM INEXPO",
+   "teamTwo": "TEAM OUTEXPO",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92665",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM MIND ELECTRIC",
+   "teamTwo": "TEAM LABYRINTH",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92666",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM GREGOR",
+   "teamTwo": "TEAM RYOSHU",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92667",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM DIPPER",
+   "teamTwo": "TEAM MABEL",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92668",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM GAY",
+   "teamTwo": "TEAM LESBIAN",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92669",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM NETHER",
+   "teamTwo": "TEAM AETHER",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92670",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM DROPZLE",
+   "teamTwo": "TEAM GIFT FROM THE STARS",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92671",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM SFOTH",
+   "teamTwo": "TEAM DOOMSPIRE",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92672",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM MINECRAFT",
+   "teamTwo": "TEAM TERRARIA",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92673",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM THORIUM",
+   "teamTwo": "TEAM CALAMITY",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92674",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM SILVER",
+   "teamTwo": "TEAM TUNGSTEN",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92675",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM BRAZIL",
+   "teamTwo": "TEAM PHILIPPINES",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92676",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM A-SIDE",
+   "teamTwo": "TEAM B-SIDE",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92677",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM TOKI",
+   "teamTwo": "TEAM PONA",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92678",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM FORGE",
+   "teamTwo": "TEAM FABRIC",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92679",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM FORTRESS 2",
+   "teamTwo": "TEAM PORTAL 2",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92680",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM MEAT BOY",
+   "teamTwo": "TEAM DR FETUS",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92681",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM SCHAUDENFREUDE",
+   "teamTwo": "TEAM BURROWING HEAVEN",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92682",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM YDKJ",
+   "teamTwo": "TEAM TMP",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92683",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM SUPER",
+   "teamTwo": "TEAM HOT",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92684",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM WITNESS",
+   "teamTwo": "TEAM LOOKER",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92685",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM FAREWELL",
+   "teamTwo": "TEAM CORE",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92686",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM WAVEDASH",
+   "teamTwo": "TEAM WALLBOUNCE",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92687",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM SUPERDASH",
+   "teamTwo": "TEAM HYPERDASH",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92688",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM STEREO MADNESS",
+   "teamTwo": "TEAM ELECTRODYNAMIX",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92689",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM ANGELA",
+   "teamTwo": "TEAM ROLAND",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92690",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM SCYTHE",
+   "teamTwo": "TEAM RIFLE",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92691",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM PAPYRUS",
+   "teamTwo": "TEAM SANS",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92692",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM SPEED COIL",
+   "teamTwo": "TEAM GRAVITY COIL",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92693",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM BLOXY COLA",
+   "teamTwo": "TEAM WITCHES BREW",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92694",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM COVER",
+   "teamTwo": "TEAM ORIGINAL",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92695",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM BONGCLOUD OPENING",
+   "teamTwo": "TEAM KING SACRIFICE",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92696",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM PRISTINE BLADE",
+   "teamTwo": "TEAM NO BLADE",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92697",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM WORD SPUD",
+   "teamTwo": "TEAM ZEEPLE DOME",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92698",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM DON",
+   "teamTwo": "TEAM KA",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92699",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM GLADOS",
+   "teamTwo": "TEAM WHEATLEY",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92700",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM 4K",
+   "teamTwo": "TEAM 7K",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92701",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM SONIC",
+   "teamTwo": "TEAM SHADOW",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92702",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM BREATHING",
+   "teamTwo": "TEAM RECITE THE BIBLE IN JAPANESE",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92703",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM PINGAS",
+   "teamTwo": "TEAM WEEGEE",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92704",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM GALEEM",
+   "teamTwo": "TEAM DHARKON",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92705",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM CRAZY HAND",
+   "teamTwo": "TEAM MASTER HAND",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92706",
+   "isValid": "",
+   "nameAnnouncement": "",
+   "teamOne": "TEAM MARIO",
+   "teamTwo": "TEAM KIRBY",
+   "x": false
+  }
+ ]
+}

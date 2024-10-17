@@ -1,0 +1,1006 @@
+{
+ "content": [
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": false,
+   "difficulty": "easy",
+   "id": "100000",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Samurai Techno",
+     "shortText": "Samurai Techno"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Intimate",
+     "shortText": "Intimate"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Battleworn Insomniac",
+     "shortText": "Battleworn Insomniac"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Lo-Fi Hip Hop Beats To Treat Patients To",
+     "shortText": "Lo-Fi Beats"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Supraventricular Tachycardia",
+     "shortText": "Supraventricular Tachycardia"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Puff Piece",
+     "shortText": "Puff Piece"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Song of the Sea",
+     "shortText": "Song of the Sea"
+    },
+    {
+     "displayValue": "8",
+     "longText": "All The Times",
+     "shortText": "All The Times"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Sleepy Garden",
+     "shortText": "Sleepy Garden"
+    }
+   ],
+   "leftLabel": "Act 1",
+   "prompt": "Rhythm Doctor Levels (Day)",
+   "rightLabel": "Act 3",
+   "trash": [
+    {
+     "longText": "Battleworm Insomniac",
+     "shortText": "Battleworm Insomniac"
+    },
+    {
+     "longText": "Superventricular Tachycardia",
+     "shortText": "Superventricular Tachycardia"
+    },
+    {
+     "longText": "Bomb Sniffing Pomeranian",
+     "shortText": "Bomb Sniffing Pomeranian"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-music"
+   ],
+   "countrySpecific": false,
+   "difficulty": "medium",
+   "id": "100001",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Disco Descent",
+     "shortText": "Disco Descent"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Crypteque",
+     "shortText": "Crypteque"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Mausoleum Mash",
+     "shortText": "Mausoleum Mash"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Fungal Funk",
+     "shortText": "Fungal Funk"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Grave Throbbing",
+     "shortText": "Grave Throbbing"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Portabellohead",
+     "shortText": "Portabellohead"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Stone Cold",
+     "shortText": "Stone Cold"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Dance of the Decorous",
+     "shortText": "Dance of the Decorous"
+    },
+    {
+     "displayValue": "9",
+     "longText": "A Cold Sweat",
+     "shortText": "A Cold Sweat"
+    }
+   ],
+   "leftLabel": "Floor 1",
+   "prompt": "Crypt of the Necrodancer Songs",
+   "rightLabel": "Floor 3",
+   "trash": [
+    {
+     "longText": "For Whom the Knell Tolls",
+     "shortText": "For Whom the Knell Tolls"
+    },
+    {
+     "longText": "Momentum Mori",
+     "shortText": "Momentum Mori"
+    },
+    {
+     "longText": "Heart of the Crypt",
+     "shortText": "Heart of the Crypt"
+    },
+    {
+     "longText": "Styx and Stones",
+     "shortText": "Styx and Stones"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": false,
+   "difficulty": "medium",
+   "id": "100002",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Stone Age",
+     "shortText": "Stone Age"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Getting an Upgrade",
+     "shortText": "Getting an Upgrade"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Acquire Hardware",
+     "shortText": "Acquire Hardware"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Isn't It Iron Pick?",
+     "shortText": "Isn't It Iron Pick?"
+    },
+    {
+     "displayValue": "5",
+     "longText": "We Need to Go Deeper",
+     "shortText": "We Need to Go Deeper"
+    },
+    {
+     "displayValue": "6",
+     "longText": "A Terrible Fortress",
+     "shortText": "A Terrible Fortress"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Eye Spy",
+     "shortText": "Eye Spy"
+    },
+    {
+     "displayValue": "8",
+     "longText": "The End?",
+     "shortText": "The End?"
+    },
+    {
+     "displayValue": "9",
+     "longText": "The Next Generation",
+     "shortText": "The Next Generation"
+    }
+   ],
+   "leftLabel": "Earlygame",
+   "prompt": "Minecraft Advancements",
+   "rightLabel": "Endgame",
+   "trash": [
+    {
+     "longText": "The New Generation",
+     "shortText": "The New Generation"
+    },
+    {
+     "longText": "Getting Wood",
+     "shortText": "Getiing Wood"
+    },
+    {
+     "longText": "Taking Inventory",
+     "shortText": "Taking Inventory"
+    },
+    {
+     "longText": "Benchmaking",
+     "shortText": "Benchmaking"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-music"
+   ],
+   "countrySpecific": false,
+   "difficulty": "medium",
+   "id": "100003",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Disco Descent",
+     "shortText": "Disco Descent"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Crypteque",
+     "shortText": "Crypteque"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Mausoleum Mash",
+     "shortText": "Mausoleum Mash"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Fungal Funk",
+     "shortText": "Fungal Funk"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Grave Throbbing",
+     "shortText": "Grave Throbbing"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Portabellohead",
+     "shortText": "Portabellohead"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Stone Cold",
+     "shortText": "Stone Cold"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Dance of the Decorous",
+     "shortText": "Dance of the Decorous"
+    },
+    {
+     "displayValue": "9",
+     "longText": "A Cold Sweat",
+     "shortText": "A Cold Sweat"
+    }
+   ],
+   "leftLabel": "Floor 1",
+   "prompt": "Crypt of the Necrodancer Songs",
+   "rightLabel": "Floor 3",
+   "trash": [
+    {
+     "longText": "For Whom the Knell Tolls",
+     "shortText": "For Whom the Knell Tolls"
+    },
+    {
+     "longText": "Momentum Mori",
+     "shortText": "Momentum Mori"
+    },
+    {
+     "longText": "Heart of the Crypt",
+     "shortText": "Heart of the Crypt"
+    },
+    {
+     "longText": "Styx and Stones",
+     "shortText": "Styx and Stones"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": false,
+   "difficulty": "medium",
+   "id": "100004",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "4our dances with other 4's",
+     "shortText": "4our dances"
+    },
+    {
+     "displayValue": "2",
+     "longText": "4our gets shot",
+     "shortText": "4our gets shot"
+    },
+    {
+     "displayValue": "3",
+     "longText": "4our's crime scene investigation",
+     "shortText": "4our's investigation"
+    },
+    {
+     "displayValue": "4",
+     "longText": "4our is missing from the dance",
+     "shortText": "4our is missing"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Four tries to dance with the 4's",
+     "shortText": "Four tries dancing"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Four dances with other 4's",
+     "shortText": "Four dances"
+    },
+    {
+     "displayValue": "7",
+     "longText": "4our's Funeral",
+     "shortText": "4our's Funeral"
+    },
+    {
+     "displayValue": "8",
+     "longText": "4 jr. doesn't care",
+     "shortText": "4 jr. doesn't care"
+    },
+    {
+     "displayValue": "9",
+     "longText": "4 jr. needs space",
+     "shortText": "4 jr. needs space"
+    }
+   ],
+   "leftLabel": "Start",
+   "prompt": "YDKJ 4our Lore",
+   "rightLabel": "End",
+   "trash": [
+    {
+     "longText": "Four gets shot",
+     "shortText": "Four gets shot"
+    },
+    {
+     "longText": "4our is thrown into the back alley",
+     "shortText": "4our is thrown"
+    },
+    {
+     "longText": "4our gets married",
+     "shortText": "4our gets married"
+    },
+    {
+     "longText": "4 jr. gets grounded",
+     "shortText": "4 jr. gets grounded"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": false,
+   "difficulty": "medium",
+   "id": "100005",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Continue Game",
+     "shortText": "Continue Game"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Beat the Moon",
+     "shortText": "Beat the Moon"
+    },
+    {
+     "displayValue": "3",
+     "longText": "New Game",
+     "shortText": "New Game"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Beat the Four Scrybes",
+     "shortText": "Beat the Four Scrybes"
+    },
+    {
+     "displayValue": "5",
+     "longText": "OLD_DATA is played",
+     "shortText": "OLD_DATA is played"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Beat the Four Uberbots",
+     "shortText": "Beat the Four Uberbots"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Begin the Great Transcendence",
+     "shortText": "Great Transcendence"
+    },
+    {
+     "displayValue": "8",
+     "longText": "p03's head gets ripped off",
+     "shortText": "p03's beheading"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Luke Carter dies",
+     "shortText": "Luke Carter dies"
+    }
+   ],
+   "leftLabel": "Start",
+   "prompt": "Story of Inscryption",
+   "rightLabel": "End",
+   "trash": [
+    {
+     "longText": "OLD_DATA is discarded",
+     "shortText": "OLD_DATA is discarded"
+    },
+    {
+     "longText": "Luke Carter lives",
+     "shortText": "Luke Carter lives"
+    },
+    {
+     "longText": "Leshy gets into a gambling addiction",
+     "shortText": "Leshy's gambling addiction"
+    },
+    {
+     "longText": "Luke Carter becomes a stoat",
+     "shortText": "Luke gets stoated"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": true,
+   "difficulty": "hard",
+   "id": "100006",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "Chapter 1",
+     "longText": "Forsaken City",
+     "shortText": "Forsaken City"
+    },
+    {
+     "displayValue": "Chapter 2",
+     "longText": "Old Site",
+     "shortText": "Old Site"
+    },
+    {
+     "displayValue": "Chapter 3",
+     "longText": "Celestial Resort",
+     "shortText": "Celestial Resort"
+    },
+    {
+     "displayValue": "Chapter 4",
+     "longText": "Golden Ridge",
+     "shortText": "Golden Ridge"
+    },
+    {
+     "displayValue": "Chapter 5",
+     "longText": "Mirror Temple",
+     "shortText": "Mirror Temple"
+    },
+    {
+     "displayValue": "Chapter 6",
+     "longText": "Reflection",
+     "shortText": "Reflection"
+    },
+    {
+     "displayValue": "Chapter 7",
+     "longText": "Summit",
+     "shortText": "Summit"
+    },
+    {
+     "displayValue": "Chapter 8",
+     "longText": "Core",
+     "shortText": "Core"
+    },
+    {
+     "displayValue": "Chapter 9",
+     "longText": "Farewell",
+     "shortText": "Farewell"
+    }
+   ],
+   "leftLabel": "Chapter 1",
+   "prompt": "Chapters in Celeste",
+   "rightLabel": "Chapter 9",
+   "trash": [
+    {
+     "longText": "Starry Ruins",
+     "shortText": "Starry Ruins"
+    },
+    {
+     "longText": "Lost City",
+     "shortText": "Lost City"
+    },
+    {
+     "longText": "The Tower XVI",
+     "shortText": "The Tower XVI"
+    },
+    {
+     "longText": "Pinball Purgatory",
+     "shortText": "Pumber"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": true,
+   "difficulty": "hard",
+   "id": "100007",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "Rank 2",
+     "longText": "Fudge Fanatic",
+     "shortText": "Fudge Fanatic"
+    },
+    {
+     "displayValue": "Rank 5",
+     "longText": "Banana Buddy",
+     "shortText": "Banana Buddy"
+    },
+    {
+     "displayValue": "Rank 7",
+     "longText": "Fruit Filler",
+     "shortText": "Fruit Filler"
+    },
+    {
+     "displayValue": "Rank 10",
+     "longText": "Polkadot Pal",
+     "shortText": "Polkadot Pal"
+    },
+    {
+     "displayValue": "Rank 13",
+     "longText": "Heart Hero",
+     "shortText": "Heart Hero"
+    },
+    {
+     "displayValue": "Rank 17",
+     "longText": "Mint Master",
+     "shortText": "Mint Master"
+    },
+    {
+     "displayValue": "Rank 23",
+     "longText": "Egg Expert",
+     "shortText": "Egg Expert"
+    },
+    {
+     "displayValue": "Rank 26",
+     "longText": "Tart Toaster",
+     "shortText": "Tart Toaster"
+    },
+    {
+     "displayValue": "Rank 29",
+     "longText": "Blossom Buddy",
+     "shortText": "Blossom Buddy"
+    }
+   ],
+   "leftLabel": "First Level",
+   "prompt": "Papa's Bakeria Ranks",
+   "rightLabel": "Last Level",
+   "trash": [
+    {
+     "longText": "Lemon Lord",
+     "shortText": "Lemon Lord"
+    },
+    {
+     "longText": "Mango Manager",
+     "shortText": "Mango Manager"
+    },
+    {
+     "longText": "Guava Genius",
+     "shortText": "Guava Genius"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": false,
+   "difficulty": "medium",
+   "id": "100008",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Third Wave Flip-Flop",
+     "shortText": "Third Wave Flip-Flop"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Credits",
+     "shortText": "Credits"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Final Hope",
+     "shortText": "Final Hope"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Distance",
+     "shortText": "Distance"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Rose Garden",
+     "shortText": "Rose Garden"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Fear Grows",
+     "shortText": "Fear Grows"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Trans-Neptunian Object",
+     "shortText": "Trans-Neptunian Object"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Miko Step",
+     "shortText": "Miko Step"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Party of Spirits",
+     "shortText": "Party of Spirits"
+    }
+   ],
+   "leftLabel": "First Released",
+   "prompt": "ADOFAI Xtra Worlds",
+   "rightLabel": "Last Released",
+   "trash": [
+    {
+     "longText": "No Hints Here!",
+     "shortText": "No Hints Here!"
+    },
+    {
+     "longText": "Miki Step",
+     "shortText": "Miki Step"
+    },
+    {
+     "longText": "Third Sun",
+     "shortText": "Third Sun"
+    },
+    {
+     "longText": "Party of Ghosts",
+     "shortText": "Party of Ghosts"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-lyrics"
+   ],
+   "countrySpecific": true,
+   "difficulty": "hard",
+   "id": "100009",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Magnesium, Aluminium, Silicon",
+     "shortText": "Magnesium, Aluminium, Silicon"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Phosphorus, then Sulfur, Chlorine and Argon",
+     "shortText": "Phosphorus, then Sulfur..."
+    },
+    {
+     "displayValue": "3",
+     "longText": "Potassium, and Calcium so you'll grow strong",
+     "shortText": "Potassium, and Calcium..."
+    },
+    {
+     "displayValue": "4",
+     "longText": "Scandium, Titanium, Vanadium and Chromium and Manganese",
+     "shortText": "Scandium, Titanium, Vanadium..."
+    },
+    {
+     "displayValue": "5",
+     "longText": "This is the Periodic Table",
+     "shortText": "This is the Periodic Table"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Noble Gas is stable",
+     "shortText": "Noble Gas is stable"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Halogens and Alkali react aggressively",
+     "shortText": "Halogens and Alkali react aggressively"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Each period will see new outer shells",
+     "shortText": "Each period will see..."
+    },
+    {
+     "displayValue": "9",
+     "longText": "While electrons are added moving to the right",
+     "shortText": "While electrons are added..."
+    }
+   ],
+   "leftLabel": "Start",
+   "prompt": "The Periodic Table Song (2018)",
+   "rightLabel": "End",
+   "trash": [
+    {
+     "longText": "This is the Prosodic Table",
+     "shortText": "This is the Prosodic Table"
+    },
+    {
+     "longText": "Mercury, to tell you when it's really warm",
+     "shortText": "Mercury, to tell you..."
+    },
+    {
+     "longText": "Noble Gas is unstable",
+     "shortText": "Noble Gas is unstable"
+    },
+    {
+     "longText": "Halogens and Alkali react peacefully",
+     "shortText": "Halogens and Alkali react peacefully"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-lyrics"
+   ],
+   "countrySpecific": false,
+   "difficulty": "medium",
+   "id": "100010",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Data droppin' sets of nine at a time",
+     "shortText": "Data droppin' sets of nine at a time"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Your sense of order better be at a prime",
+     "shortText": "Your sense of order better be at a prime"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Bubble sorting leads to trouble galore",
+     "shortText": "Bubble sorting leads to trouble galore"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Bogo sorting is for bozos for sure",
+     "shortText": "Bogo sorting is for bozos for sure"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Quixort! Let's keep it tight",
+     "shortText": "Quixort! Let's keep it tight"
+    },
+    {
+     "displayValue": "6",
+     "longText": "The beat is faster algorithmically",
+     "shortText": "The beat is faster algorithmically"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Oh no! Don't start a fight!",
+     "shortText": "Oh no! Don't start a fight!"
+    },
+    {
+     "displayValue": "8",
+     "longText": "But do it quick 'cause there's no time for critique",
+     "shortText": "But do it quick 'cause..."
+    },
+    {
+     "displayValue": "9",
+     "longText": "And get the prize immemorial",
+     "shortText": "And get the prize immemorial"
+    }
+   ],
+   "leftLabel": "Song Start",
+   "prompt": "Quixort Credits",
+   "rightLabel": "Song End",
+   "trash": [
+    {
+     "longText": "Quixort! Let's keep it right",
+     "shortText": "Quixort! Let's keep it right"
+    },
+    {
+     "longText": "Bogo sorting leads to trouble galore",
+     "shortText": "Bogo sorting leads to trouble galore"
+    },
+    {
+     "longText": "Data droppin' sets of twelve at a time",
+     "shortText": "Data droppin' sets of twelve at a time"
+    },
+    {
+     "longText": "The beat is fast analytically",
+     "shortText": "The beat is fast analytically"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-lyrics"
+   ],
+   "countrySpecific": true,
+   "difficulty": "hard",
+   "id": "100009",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Magnesium, Aluminium, Silicon",
+     "shortText": "Magnesium, Aluminium, Silicon"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Phosphorus, then Sulfur, Chlorine and Argon",
+     "shortText": "Phosphorus, then Sulfur..."
+    },
+    {
+     "displayValue": "3",
+     "longText": "Potassium, and Calcium so you'll grow strong",
+     "shortText": "Potassium, and Calcium..."
+    },
+    {
+     "displayValue": "4",
+     "longText": "Scandium, Titanium, Vanadium and Chromium and Manganese",
+     "shortText": "Scandium, Titanium, Vanadium..."
+    },
+    {
+     "displayValue": "5",
+     "longText": "This is the Periodic Table",
+     "shortText": "This is the Periodic Table"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Noble Gas is stable",
+     "shortText": "Noble Gas is stable"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Halogens and Alkali react aggressively",
+     "shortText": "Halogens and Alkali react aggressively"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Each period will see new outer shells",
+     "shortText": "Each period will see..."
+    },
+    {
+     "displayValue": "9",
+     "longText": "While electrons are added moving to the right",
+     "shortText": "While electrons are added..."
+    }
+   ],
+   "leftLabel": "Start",
+   "prompt": "The Periodic Table Song (2018)",
+   "rightLabel": "End",
+   "trash": [
+    {
+     "longText": "This is the Prosodic Table",
+     "shortText": "This is the Prosodic Table"
+    },
+    {
+     "longText": "Mercury, to tell you when it's really warm",
+     "shortText": "Mercury, to tell you..."
+    },
+    {
+     "longText": "Noble Gas is unstable",
+     "shortText": "Noble Gas is unstable"
+    },
+    {
+     "longText": "Halogens and Alkali react peacefully",
+     "shortText": "Halogens and Alkali react peacefully"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-placeholder for ending lol"
+   ],
+   "countrySpecific": true,
+   "difficulty": "hard",
+   "id": "94041",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "2",
+     "longText": "Miami Marlins",
+     "shortText": "Miami Marlins"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Chicago Cubs",
+     "shortText": "Chicago Cubs"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Detroit Tigers",
+     "shortText": "Detroit Tigers"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Pittsburgh Pirates",
+     "shortText": "Pittsburgh Pirates"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Los Angeles Dodgers",
+     "shortText": "Los Angeles Dodgers"
+    },
+    {
+     "displayValue": "8",
+     "longText": "San Francisco Giants",
+     "shortText": "San Francisco Giants"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Boston Red Sox",
+     "shortText": "Boston Red Sox"
+    },
+    {
+     "displayValue": "11",
+     "longText": "St. Louis Cardinals",
+     "shortText": "St. Louis Cardinals"
+    },
+    {
+     "displayValue": "27",
+     "longText": "New York Yankees",
+     "shortText": "New York Yankees"
+    }
+   ],
+   "leftLabel": "Least Victories",
+   "prompt": "World Series Victories (As of 2021)",
+   "rightLabel": "Most Victories",
+   "trash": [
+    {
+     "longText": "East High Wildcats",
+     "shortText": "East High Wildcats"
+    },
+    {
+     "longText": "Milwaukee Beers",
+     "shortText": "Milwaukee Beers"
+    },
+    {
+     "longText": "New England Dads",
+     "shortText": "New England Dads"
+    }
+   ],
+   "x": false
+  }
+ ]
+}
