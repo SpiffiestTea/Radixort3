@@ -84,47 +84,47 @@
    "isValid": "",
    "items": [
     {
-     "displayValue": "1",
+     "displayValue": "1-1",
      "longText": "Disco Descent",
      "shortText": "Disco Descent"
     },
     {
-     "displayValue": "2",
+     "displayValue": "1-2",
      "longText": "Crypteque",
      "shortText": "Crypteque"
     },
     {
-     "displayValue": "3",
+     "displayValue": "1-3",
      "longText": "Mausoleum Mash",
      "shortText": "Mausoleum Mash"
     },
     {
-     "displayValue": "4",
+     "displayValue": "2-1",
      "longText": "Fungal Funk",
      "shortText": "Fungal Funk"
     },
     {
-     "displayValue": "5",
+     "displayValue": "2-2",
      "longText": "Grave Throbbing",
      "shortText": "Grave Throbbing"
     },
     {
-     "displayValue": "6",
+     "displayValue": "2-3",
      "longText": "Portabellohead",
      "shortText": "Portabellohead"
     },
     {
-     "displayValue": "7",
+     "displayValue": "3-1",
      "longText": "Stone Cold",
      "shortText": "Stone Cold"
     },
     {
-     "displayValue": "8",
+     "displayValue": "3-2",
      "longText": "Dance of the Decorous",
      "shortText": "Dance of the Decorous"
     },
     {
-     "displayValue": "9",
+     "displayValue": "3-3",
      "longText": "A Cold Sweat",
      "shortText": "A Cold Sweat"
     }
@@ -232,78 +232,74 @@
   },
   {
    "categories": [
-    "quix-music"
+    "quix-yt"
    ],
-   "countrySpecific": false,
-   "difficulty": "medium",
+   "countrySpecific": true,
+   "difficulty": "hard",
    "id": "100003",
    "isValid": "",
    "items": [
     {
-     "displayValue": "1",
-     "longText": "Disco Descent",
-     "shortText": "Disco Descent"
+     "displayValue": "4/10/18",
+     "longText": "How It's Actually Made - Chocolate",
+     "shortText": "Chocolate"
     },
     {
-     "displayValue": "2",
-     "longText": "Crypteque",
-     "shortText": "Crypteque"
+     "displayValue": "5/20/18",
+     "longText": "How It's Actually Made - Bacon",
+     "shortText": "Bacon"
     },
     {
-     "displayValue": "3",
-     "longText": "Mausoleum Mash",
-     "shortText": "Mausoleum Mash"
+     "displayValue": "3/7/18",
+     "longText": "How It's Actually Made - Breath Mints",
+     "shortText": "Breath Mints"
     },
     {
-     "displayValue": "4",
-     "longText": "Fungal Funk",
-     "shortText": "Fungal Funk"
+     "displayValue": "11/1/20",
+     "longText": "How It's Actually Made - Frozen Pizza",
+     "shortText": "Frozen Pizza"
     },
     {
-     "displayValue": "5",
-     "longText": "Grave Throbbing",
-     "shortText": "Grave Throbbing"
+     "displayValue": "12/21/20",
+     "longText": "How It's Actually Made - Gingerbread Houses",
+     "shortText": "Gingerbread Houses"
     },
     {
-     "displayValue": "6",
-     "longText": "Portabellohead",
-     "shortText": "Portabellohead"
+     "displayValue": "1/13/21",
+     "longText": "How It's Actually Made - Soy Sauce",
+     "shortText": "Soy Sauce"
     },
     {
-     "displayValue": "7",
-     "longText": "Stone Cold",
-     "shortText": "Stone Cold"
+     "displayValue": "4/9/21",
+     "longText": "How It's Actually Made - Bread",
+     "shortText": "Bread"
     },
     {
-     "displayValue": "8",
-     "longText": "Dance of the Decorous",
-     "shortText": "Dance of the Decorous"
+     "displayValue": "11/4/21",
+     "longText": "How It's Actually Made - Cake Sprinkles",
+     "shortText": "Cake Sprinkles"
     },
     {
-     "displayValue": "9",
-     "longText": "A Cold Sweat",
-     "shortText": "A Cold Sweat"
+     "displayValue": "5/18/22",
+     "longText": "How It's Actually Made - Apple Pie",
+     "shortText": "Apple Pie"
     }
    ],
-   "leftLabel": "Floor 1",
-   "prompt": "Crypt of the Necrodancer Songs",
-   "rightLabel": "Floor 3",
+   "leftLabel": "First Released",
+   "prompt": "How It's Actually Made Food Videos",
+   "rightLabel": "Last Released",
    "trash": [
     {
-     "longText": "For Whom the Knell Tolls",
-     "shortText": "For Whom the Knell Tolls"
+     "longText": "How It's Actually Made - Baked Beans",
+     "shortText": "Baked Beans"
     },
     {
-     "longText": "Momentum Mori",
-     "shortText": "Momentum Mori"
+     "longText": "How It's Actually Made - Fireworks",
+     "shortText": "Fireworks"
     },
     {
-     "longText": "Heart of the Crypt",
-     "shortText": "Heart of the Crypt"
-    },
-    {
-     "longText": "Styx and Stones",
-     "shortText": "Styx and Stones"
+     "longText": "How It's Actually Made - Potatoes",
+     "shortText": "Potatoes"
     }
    ],
    "x": false
@@ -468,8 +464,8 @@
    "categories": [
     "quix-video-games"
    ],
-   "countrySpecific": true,
-   "difficulty": "hard",
+   "countrySpecific": false,
+   "difficulty": "easy",
    "id": "100006",
    "isValid": "",
    "items": [
@@ -852,78 +848,920 @@
   },
   {
    "categories": [
-    "quix-lyrics"
+    "quix-video-games"
    ],
-   "countrySpecific": true,
-   "difficulty": "hard",
-   "id": "100009",
+   "countrySpecific": false,
+   "difficulty": "medium",
+   "id": "100011",
    "isValid": "",
    "items": [
     {
      "displayValue": "1",
-     "longText": "Magnesium, Aluminium, Silicon",
-     "shortText": "Magnesium, Aluminium, Silicon"
+     "longText": "Third Wave Flip-Flop",
+     "shortText": "Third Wave Flip-Flop"
     },
     {
      "displayValue": "2",
-     "longText": "Phosphorus, then Sulfur, Chlorine and Argon",
-     "shortText": "Phosphorus, then Sulfur..."
+     "longText": "Credits",
+     "shortText": "Credits"
     },
     {
      "displayValue": "3",
-     "longText": "Potassium, and Calcium so you'll grow strong",
-     "shortText": "Potassium, and Calcium..."
+     "longText": "Final Hope",
+     "shortText": "Final Hope"
     },
     {
      "displayValue": "4",
-     "longText": "Scandium, Titanium, Vanadium and Chromium and Manganese",
-     "shortText": "Scandium, Titanium, Vanadium..."
+     "longText": "Distance",
+     "shortText": "Distance"
     },
     {
      "displayValue": "5",
-     "longText": "This is the Periodic Table",
-     "shortText": "This is the Periodic Table"
+     "longText": "Rose Garden",
+     "shortText": "Rose Garden"
     },
     {
      "displayValue": "6",
-     "longText": "Noble Gas is stable",
-     "shortText": "Noble Gas is stable"
+     "longText": "Fear Grows",
+     "shortText": "Fear Grows"
     },
     {
      "displayValue": "7",
-     "longText": "Halogens and Alkali react aggressively",
-     "shortText": "Halogens and Alkali react aggressively"
+     "longText": "Trans-Neptunian Object",
+     "shortText": "Trans-Neptunian Object"
     },
     {
      "displayValue": "8",
-     "longText": "Each period will see new outer shells",
-     "shortText": "Each period will see..."
+     "longText": "Miko Step",
+     "shortText": "Miko Step"
     },
     {
      "displayValue": "9",
-     "longText": "While electrons are added moving to the right",
-     "shortText": "While electrons are added..."
+     "longText": "Party of Spirits",
+     "shortText": "Party of Spirits"
+    }
+   ],
+   "leftLabel": "First Released",
+   "prompt": "ADOFAI Xtra Worlds",
+   "rightLabel": "Last Released",
+   "trash": [
+    {
+     "longText": "No Hints Here!",
+     "shortText": "No Hints Here!"
+    },
+    {
+     "longText": "Miki Step",
+     "shortText": "Miki Step"
+    },
+    {
+     "longText": "Third Sun",
+     "shortText": "Third Sun"
+    },
+    {
+     "longText": "Party of Ghosts",
+     "shortText": "Party of Ghosts"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-board-games"
+   ],
+   "countrySpecific": false,
+   "difficulty": "hard",
+   "id": "100012",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Untap",
+     "shortText": "Untap"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Upkeep",
+     "shortText": "Upkeep"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Draw",
+     "shortText": "Draw"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Precombat Main Phase",
+     "shortText": "Precombat Main Phase"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Declare Attackers",
+     "shortText": "Declare Attackers"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Declare Blockers",
+     "shortText": "Declare Blockers"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Damage",
+     "shortText": "Damage"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Postcombat Main Phase",
+     "shortText": "Postcombat Main Phase"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Cleanup",
+     "shortText": "Cleanup"
+    }
+   ],
+   "leftLabel": "Resolved First",
+   "prompt": "MTG Turn Structure",
+   "rightLabel": "Resolved Last",
+   "trash": [
+    {
+     "longText": "Resign",
+     "shortText": "Resign"
+    },
+    {
+     "longText": "Retap",
+     "shortText": "Retap"
+    },
+    {
+     "longText": "Black Lotus Priority",
+     "shortText": "Black Lotus Priority"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-quirky"
+   ],
+   "countrySpecific": true,
+   "difficulty": "easy",
+   "id": "100013",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "Rule 1",
+     "longText": "No Offensive Remarks",
+     "shortText": "No Offensive Remarks"
+    },
+    {
+     "displayValue": "Rule 2",
+     "longText": "No Spam",
+     "shortText": "No Spam"
+    },
+    {
+     "displayValue": "Rule 3",
+     "longText": "No Impersonating",
+     "shortText": "No Impersonating"
+    },
+    {
+     "displayValue": "Rule 4",
+     "longText": "No Harassing Mods/Devs",
+     "shortText": "No Harassing Mods/Devs"
+    },
+    {
+     "displayValue": "Rule 5",
+     "longText": "No Doxxing",
+     "shortText": "No Doxxing"
+    },
+    {
+     "displayValue": "Rule 6",
+     "longText": "No NSFW Content",
+     "shortText": "No NSFW Content"
+    },
+    {
+     "displayValue": "Rule 7",
+     "longText": "No Datamining",
+     "shortText": "No Datamining"
+    },
+    {
+     "displayValue": "Rule 8",
+     "longText": "No Pirating 7BG Games",
+     "shortText": "No Pirating 7BG Games"
+    },
+    {
+     "displayValue": "Rule 9",
+     "longText": "No Crypto/NFT",
+     "shortText": "No Crypto/NFT"
+    }
+   ],
+   "leftLabel": "Song Start",
+   "prompt": "Quixort Credits",
+   "rightLabel": "Song End",
+   "trash": [
+    {
+     "longText": "No Adversing in Tachycardia",
+     "shortText": "No Ads in Tachy"
+    },
+    {
+     "longText": "No Gambling",
+     "shortText": "No Gambling"
+    },
+    {
+     "longText": "No Reply Pinging",
+     "shortText": "No Reply Pinging"
+    },
+    {
+     "longText": "No Dating",
+     "shortText": "No Dating"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-myth"
+   ],
+   "countrySpecific": false,
+   "difficulty": "hard",
+   "id": "100014",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Gaia",
+     "shortText": "Gaia"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Chronos",
+     "shortText": "Chronos"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Aphrodite",
+     "shortText": "Aphrodite"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Hades",
+     "shortText": "Hades"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Zeus",
+     "shortText": "Zeus"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Artemis",
+     "shortText": "Artemis"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Athena",
+     "shortText": "Athena"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Hephaestus",
+     "shortText": "Hephaestus"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Dionysus",
+     "shortText": "Dionysus"
+    }
+   ],
+   "leftLabel": "First Born",
+   "prompt": "Greek Gods (According to Heisod's Theogony)",
+   "rightLabel": "Last Born",
+   "trash": [
+    {
+     "longText": "Schelemeus",
+     "shortText": "Schelemeus"
+    },
+    {
+     "longText": "Freya",
+     "shortText": "Freya"
+    },
+    {
+     "longText": "Ganesha",
+     "shortText": "Ganesha"
+    },
+    {
+     "longText": "Sisyphus",
+     "shortText": "Sisyphus"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-yt"
+   ],
+   "countrySpecific": true,
+   "difficulty": "hard",
+   "id": "100015",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Chicken or Beef",
+     "shortText": "Chicken or Beef"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Parkour Prison",
+     "shortText": "Parkour Prison"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Wood House",
+     "shortText": "Wood House"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Slime Jump Installation",
+     "shortText": "Slime Jump Installation"
+    },
+    {
+     "displayValue": "5",
+     "longText": "First Parkour Battle",
+     "shortText": "First Parkour Battle"
+    },
+    {
+     "displayValue": "6",
+     "longText": "TNT Assassination",
+     "shortText": "TNT Assassination"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Water Bucket",
+     "shortText": "Water Bucket"
+    },
+    {
+     "displayValue": "8",
+     "longText": "First Battle Loss",
+     "shortText": "First Battle Loss"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Parkour Champion",
+     "shortText": "Parkour Champion"
+    }
+   ],
+   "leftLabel": "Event Start",
+   "prompt": "Parkour Civilization (Season 1)",
+   "rightLabel": "Event End",
+   "trash": [
+    {
+     "longText": "Parkour Hell",
+     "shortText": "Parkour Hell"
+    },
+    {
+     "longText": "Diamond House",
+     "shortText": "Diamond House"
+    },
+    {
+     "longText": "Notch",
+     "shortText": "Notch"
+    },
+    {
+     "longText": "Backwards 5 Block Jump",
+     "shortText": "Backwards 5 Block Jump"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-music"
+   ],
+   "countrySpecific": false,
+   "difficulty": "medium",
+   "id": "100016",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Samurai Dubstep",
+     "shortText": "Samurai Dubstep"
+    },
+    {
+     "displayValue": "2",
+     "longText": "wish i could care less",
+     "shortText": "wish i could care less"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Unreachable",
+     "shortText": "Unreachable"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Bomb-Sniffing Pomeranian",
+     "shortText": "Bomb-Sniffing Pomeranian"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Lounge",
+     "shortText": "Lounge"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Rollerdisco Rumble",
+     "shortText": "Rollerdisco Rumble"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Murmurs",
+     "shortText": "Murmurs"
+    },
+    {
+     "displayValue": "8",
+     "longText": "One Slip Too Late",
+     "shortText": "One Slip Too Late"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Unsustainable Inconsolable",
+     "shortText": "Unsustainable Inconsolable"
+    }
+   ],
+   "leftLabel": "Floor 1",
+   "prompt": "Crypt of the Necrodancer Song Titles",
+   "rightLabel": "Floor 3",
+   "trash": [
+    {
+     "longText": "Super Battleworm Insomniac",
+     "shortText": "Super Battleworm Insomniac"
+    },
+    {
+     "longText": "tape/stop/night",
+     "shortText": "tape/stop/night"
+    },
+    {
+     "longText": "Op10No4",
+     "shortText": "Op10No4"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-yt"
+   ],
+   "countrySpecific": true,
+   "difficulty": "hard",
+   "id": "100017",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Soup Mom 64",
+     "shortText": "Soup Mom 64"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Money Sponsorship",
+     "shortText": "Money Sponsorship"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Womp Womp Not Good Enough Mountain",
+     "shortText": "Womp Womp"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Bubzia Beats Up Mario",
+     "shortText": "Bubzia Beats Up Mario"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Anti-Bubzia",
+     "shortText": "Anti-Bubzia"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Tendyman",
+     "shortText": "Tendyman"
+    },
+    {
+     "displayValue": "7",
+     "longText": "100 Legit 36 Quit",
+     "shortText": "100 Legit 36 Quit"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Slow Momo Moments",
+     "shortText": "Slow Momo Moments"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Family Guy Cutaway",
+     "shortText": "Family Guy Cutaway"
     }
    ],
    "leftLabel": "Start",
-   "prompt": "The Periodic Table Song (2018)",
+   "prompt": "Daisy Bel",
    "rightLabel": "End",
    "trash": [
     {
-     "longText": "This is the Prosodic Table",
-     "shortText": "This is the Prosodic Table"
+     "longText": "Dangerous Nun",
+     "shortText": "Dangerous Nun"
     },
     {
-     "longText": "Mercury, to tell you when it's really warm",
-     "shortText": "Mercury, to tell you..."
+     "longText": "I Can't Stop Drinking Oil",
+     "shortText": "I Can't Stop Drinking Oil"
     },
     {
-     "longText": "Noble Gas is unstable",
-     "shortText": "Noble Gas is unstable"
+     "longText": "Mario 666",
+     "shortText": "Mario 666"
     },
     {
-     "longText": "Halogens and Alkali react peacefully",
-     "shortText": "Halogens and Alkali react peacefully"
+     "longText": "Counting Arms",
+     "shortText": "Counting Arms"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-yt"
+   ],
+   "countrySpecific": false,
+   "difficulty": "hard",
+   "id": "100018",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Slaying the Nemaen Lion",
+     "shortText": "Slaying the Lion"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Slaying the nine-headed Nernaean Hydra",
+     "shortText": "Slaying the Hydra"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Capturing the Erymanthian Boar",
+     "shortText": "Capturing the Boar"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Cleaning the Augean Stables",
+     "shortText": "Cleaning the stables"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Capturing the Cretan Bull",
+     "shortText": "Capturing the Bull"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Stealing the Mares of Diomedes",
+     "shortText": "Stealing the Mares"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Obtaining the cattle of Geryon",
+     "shortText": "Obtaining the cattle"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Stealing three golden apples",
+     "shortText": "Stealing golden apples"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Capturing and bringing back Cerberus",
+     "shortText": "Capturing Cerberus"
+    }
+   ],
+   "leftLabel": "First",
+   "prompt": "Twelve Labours of Heracles (according to Apollodorus)",
+   "rightLabel": "Last",
+   "trash": [
+    {
+     "longText": "Slaying the Gorgoneion Medusa",
+     "shortText": "Slaying Medusa"
+    },
+    {
+     "longText": "Marrying Andromeda",
+     "shortText": "Marrying Andromeda"
+    },
+    {
+     "longText": "Binding Thanatos in chains",
+     "shortText": "Binding Thanatos"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-myth"
+   ],
+   "countrySpecific": false,
+   "difficulty": "easy",
+   "id": "100019",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Limbo",
+     "shortText": "Limbo"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Lust",
+     "shortText": "Lust"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Gluttony",
+     "shortText": "Gluttony"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Greed",
+     "shortText": "Greed"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Wrath",
+     "shortText": "Wrath"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Heresy",
+     "shortText": "Heresy"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Violence",
+     "shortText": "Violence"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Fraud",
+     "shortText": "Fraud"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Treachery",
+     "shortText": "Treachery"
+    }
+   ],
+   "leftLabel": "Start",
+   "prompt": "The Nine Circles of Hell (Dante's Inferno)",
+   "rightLabel": "End",
+   "trash": [
+    {
+     "longText": "Desire",
+     "shortText": "Desire"
+    },
+    {
+     "longText": "Forgotten Ridge",
+     "shortText": "Forgotten Ridge"
+    },
+    {
+     "longText": "Anger",
+     "shortText": "Anger"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-numbers"
+   ],
+   "countrySpecific": false,
+   "difficulty": "hard",
+   "id": "100020",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "19 Votes",
+     "longText": "Richard Hugh",
+     "shortText": "Richard Hugh"
+    },
+    {
+     "displayValue": "33 Votes",
+     "longText": "Logan",
+     "shortText": "Logan"
+    },
+    {
+     "displayValue": "80 Votes",
+     "longText": "Insomniac",
+     "shortText": "Insomniac"
+    },
+    {
+     "displayValue": "95 Votes",
+     "longText": "Edega",
+     "shortText": "Edega"
+    },
+    {
+     "displayValue": "230 Votes",
+     "longText": "Samurai",
+     "shortText": "Samurai"
+    },
+    {
+     "displayValue": "327 Votes",
+     "longText": "Ian",
+     "shortText": "Ian"
+    },
+    {
+     "displayValue": "354 Votes",
+     "longText": "Cole",
+     "shortText": "Cole"
+    },
+    {
+     "displayValue": "434 Votes",
+     "longText": "Lucky",
+     "shortText": "Lucky"
+    },
+    {
+     "displayValue": "484 Votes",
+     "longText": "Ada Paige",
+     "shortText": "Ada Paige"
+    }
+   ],
+   "leftLabel": "Least Popular",
+   "prompt": "7th Beat Games Favourite Character Poll (2024)",
+   "rightLabel": "Most Popular",
+   "trash": [
+    {
+     "longText": "Beans",
+     "shortText": "Beans"
+    },
+    {
+     "longText": "Tentacle",
+     "shortText": "Tentacle"
+    },
+    {
+     "longText": "Heart Chick",
+     "shortText": "Heart Chick"
+    },
+    {
+     "longText": "Classybeat",
+     "shortText": "Classybeat"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": true,
+   "difficulty": "hard",
+   "id": "100021",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Warm-Up!",
+     "shortText": "Warm-Up!"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Dance!",
+     "shortText": "Dance!"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Run!",
+     "shortText": "Run!"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Focus!",
+     "shortText": "Focus!"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Delusional!",
+     "shortText": "Delusional!"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Syncopation!",
+     "shortText": "Syncopation!"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Op10No4!",
+     "shortText": "Op10No4!"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Blackout!",
+     "shortText": "Blackout!"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Quickly!",
+     "shortText": "Quickly!"
+    }
+   ],
+   "leftLabel": "First in Level",
+   "prompt": "Sections in Rodney's Rhythm Rounds",
+   "rightLabel": "Last in Level",
+   "trash": [
+    {
+     "longText": "Chopin!",
+     "shortText": "Chopin!"
+    },
+    {
+     "longText": "Keep Up!",
+     "shortText": "Keep Up!"
+    },
+    {
+     "longText": "Monochrome!",
+     "shortText": "Monochrome!"
+    },
+    {
+     "longText": "Lights Out!",
+     "shortText": "Lights Out!"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": true,
+   "difficulty": "hard",
+   "id": "100022",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Yi Sang",
+     "shortText": "Yi Sang"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Faust",
+     "shortText": "Faust"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Don Quixote",
+     "shortText": "Don Quixote"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Meursault",
+     "shortText": "Meursault"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Heathcliff",
+     "shortText": "Heathcliff"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Ishmael",
+     "shortText": "Ishmael"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Dante",
+     "shortText": "Dante"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Sinclair",
+     "shortText": "Sinclair"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Gregor",
+     "shortText": "Gregor"
+    }
+   ],
+   "leftLabel": "01",
+   "prompt": "Limbus Company Sinners",
+   "rightLabel": "13",
+   "trash": [
+    {
+     "longText": "Vergilius",
+     "shortText": "Vergilius"
+    },
+    {
+     "longText": "Charon",
+     "shortText": "Charon"
+    },
+    {
+     "longText": "Roland",
+     "shortText": "Roland"
+    },
+    {
+     "longText": "Yoshihide",
+     "shortText": "Yoshihide"
     }
    ],
    "x": false
