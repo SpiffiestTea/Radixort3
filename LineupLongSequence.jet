@@ -10,71 +10,1520 @@
    "isValid": "",
    "items": [
     {
-     "displayValue": "2007",
-     "longText": "Netflix",
-     "shortText": "Netflix"
+     "displayValue": "Level 1",
+     "longText": "Fundamentals",
+     "shortText": "Fundamentals"
     },
     {
-     "displayValue": "2008",
-     "longText": "Hulu",
-     "shortText": "Hulu"
+     "displayValue": "Level 2",
+     "longText": "Basic Moves",
+     "shortText": "Basic Moves"
+    },
+    {
+     "displayValue": "Level 3",
+     "longText": "Basic Strategy",
+     "shortText": "Basic Strategy"
+    },
+    {
+     "displayValue": "Level 9",
+     "longText": "Stalling",
+     "shortText": "Stalling"
+    },
+    {
+     "displayValue": "Level 13",
+     "longText": "Intermediate Bluffs",
+     "shortText": "Intermediate Bluffs"
+    },
+    {
+     "displayValue": "Level 16",
+     "longText": "Ejections & Discharges",
+     "shortText": "Ejections & Discharges"
+    },
+    {
+     "displayValue": "Level 20",
+     "longText": "Priority",
+     "shortText": "Priority"
+    },
+    {
+     "displayValue": "Level 23",
+     "longText": "Rare Emergency Discards",
+     "shortText": "Rare Emergency Discards"
+    },
+    {
+     "displayValue": "Level 24",
+     "longText": "Charms & Miscellaneous",
+     "shortText": "Charms & Miscellaneous"
+    }
+   ],
+   "leftLabel": "Lowest",
+   "prompt": "Levels of the Hanabi H-Group Conventions",
+   "rightLabel": "Highest",
+   "trash": [
+    {
+     "longText": "Early Game",
+     "shortText": "Early Game"
+    },
+    {
+     "longText": "Trashing",
+     "shortText": "Trashing"
+    },
+    {
+     "longText": "Guesswork",
+     "shortText": "Guesswork"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": true,
+   "difficulty": "medium",
+   "id": "200001",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Prestige",
+     "shortText": "Prestige"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Deceleration",
+     "shortText": "Deceleration"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Galactic",
+     "shortText": "Galactic"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Sacrifice",
+     "shortText": "Sacrifice"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Receleration",
+     "shortText": "Receleration"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Planetoid",
+     "shortText": "Planetoid"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Supernova",
+     "shortText": "Supernova"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Centralise",
+     "shortText": "Centralise"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Grassland",
+     "shortText": "Grassland"
+    }
+   ],
+   "leftLabel": "Earlygame",
+   "prompt": "Grass Cutting Incremental (World 1)",
+   "rightLabel": "Endgame",
+   "trash": [
+    {
+     "longText": "Awaken",
+     "shortText": "Awaken"
+    },
+    {
+     "longText": "Collapse",
+     "shortText": "Collapse"
+    },
+    {
+     "longText": "Hop Skip Jump",
+     "shortText": "Hop Skip Jump"
+    },
+    {
+     "longText": "Midnight",
+     "shortText": "Midnight"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": false,
+   "difficulty": "easy",
+   "id": "200002",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "Compo 1",
+     "longText": "Classy Remake",
+     "shortText": "Classy Remake"
+    },
+    {
+     "displayValue": "Compo 2",
+     "longText": "Simon Says",
+     "shortText": "Simon Says"
+    },
+    {
+     "displayValue": "Compo 3",
+     "longText": "One Regular and One Oneshot",
+     "shortText": "One Regular One Oneshot"
+    },
+    {
+     "displayValue": "Compo 4",
+     "longText": "Complete Blackout",
+     "shortText": "Complete Blackout"
+    },
+    {
+     "displayValue": "Compo 5",
+     "longText": "Uncommon Genre",
+     "shortText": "Uncommon Genre"
+    },
+    {
+     "displayValue": "Compo 6",
+     "longText": "Storyteller",
+     "shortText": "Storyteller"
+    },
+    {
+     "displayValue": "Compo 8",
+     "longText": "Two-Handed",
+     "shortText": "Two-Handed"
+    },
+    {
+     "displayValue": "Compo 11",
+     "longText": "Twist",
+     "shortText": "Twist"
+    },
+    {
+     "displayValue": "Level 12",
+     "longText": "Smol",
+     "shortText": "Smol"
+    }
+   ],
+   "leftLabel": "Oldest",
+   "prompt": "Rhythm Doctor Competition Themes",
+   "rightLabel": "Newest",
+   "trash": [
+    {
+     "longText": "Contrast",
+     "shortText": "Contrast"
+    },
+    {
+     "longText": "Steampunk",
+     "shortText": "Steampunk"
+    },
+    {
+     "longText": "Tasty",
+     "shortText": "Tasty"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": false,
+   "difficulty": "medium",
+   "id": "200003",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "r15",
+     "longText": "Move Row",
+     "shortText": "Move Row"
+    },
+    {
+     "displayValue": "r15a",
+     "longText": "Move Camera",
+     "shortText": "Move Camera"
+    },
+    {
+     "displayValue": "r17",
+     "longText": "Yellow Rooms Tab",
+     "shortText": "Yellow Rooms Tab"
+    },
+    {
+     "displayValue": "r17e",
+     "longText": "Custom Characters",
+     "shortText": "Custom Characters"
+    },
+    {
+     "displayValue": "r17f",
+     "longText": "Play Expression",
+     "shortText": "Play Expression"
+    },
+    {
+     "displayValue": "r18",
+     "longText": "Freezeshots",
+     "shortText": "Freezeshots"
+    },
+    {
+     "displayValue": "r19",
+     "longText": "RDCode",
+     "shortText": "RDCode"
+    },
+    {
+     "displayValue": "r20",
+     "longText": "Decorations Tab",
+     "shortText": "Decorations Tab"
+    },
+    {
+     "displayValue": "r21",
+     "longText": "Triangleshots",
+     "shortText": "Triangleshots"
+    }
+   ],
+   "leftLabel": "Oldest",
+   "prompt": "Rhythm Doctor Editor Features",
+   "rightLabel": "Newest",
+   "trash": [
+    {
+     "longText": "Swirls",
+     "shortText": "Swirls"
+    },
+    {
+     "longText": "Time Travel",
+     "shortText": "Time Travel"
+    },
+    {
+     "longText": "Squeezeshots",
+     "shortText": "Squeezeshots"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": true,
+   "difficulty": "easy",
+   "id": "200004",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1995",
+     "longText": "YDKJ Vol. 1",
+     "shortText": "YDKJ Vol. 1"
+    },
+    {
+     "displayValue": "1996",
+     "longText": "YDKJ: Sports",
+     "shortText": "YDKJ: Sports"
+    },
+    {
+     "displayValue": "1997",
+     "longText": "YDKJ: Movies",
+     "shortText": "YDKJ: Movies"
+    },
+    {
+     "displayValue": "1998",
+     "longText": "YDKJ (Tabletop Version)",
+     "shortText": "YDKJ (Tabletop Version)"
+    },
+    {
+     "displayValue": "1999",
+     "longText": "YDKJ (PlayStation)",
+     "shortText": "YDKJ (PlayStation)"
+    },
+    {
+     "displayValue": "2003",
+     "longText": "YDKJ: The Lost Gold",
+     "shortText": "YDKJ: The Lost Gold"
     },
     {
      "displayValue": "2011",
-     "longText": "Amazon Prime Video",
-     "shortText": "Amazon Prime Video"
+     "longText": "YDKJ: VMA Edition",
+     "shortText": "YDKJ: VMA Edition"
     },
     {
-     "displayValue": "2014",
-     "longText": "Tubi",
-     "shortText": "Tubi"
+     "displayValue": "2013",
+     "longText": "YDKJ (OUYA)",
+     "shortText": "YDKJ (OUYA)"
     },
     {
-     "displayValue": "2015",
-     "longText": "HBO Now",
-     "shortText": "HBO Now"
-    },
-    {
-     "displayValue": "2016",
-     "longText": "SeeSo",
-     "shortText": "SeeSo"
-    },
-    {
-     "displayValue": "2017",
-     "longText": "Youtube TV",
-     "shortText": "Youtube TV"
-    },
-    {
-     "displayValue": "2019",
-     "longText": "Disney+",
-     "shortText": "Disney+"
-    },
-    {
-     "displayValue": "2020",
-     "longText": "Peacock",
-     "shortText": "Peacock"
-    },
-    {
-     "displayValue": "2021",
-     "longText": "Paramount Plus",
-     "shortText": "Paramount Plus"
+     "displayValue": "2018",
+     "longText": "YDKJ: Full Stream",
+     "shortText": "YDKJ: Full Stream"
     }
    ],
-   "leftLabel": "Oldest Service",
-   "prompt": "Streaming Services",
-   "rightLabel": "Newest Service",
+   "leftLabel": "Oldest",
+   "prompt": "You Don't Know Jack (Series)",
+   "rightLabel": "Newest",
    "trash": [
     {
-     "longText": "Pluggi",
-     "shortText": "Pluggi"
+     "longText": "YDKJ: HeadCrush",
+     "shortText": "YDKJ: HeadCrush"
     },
     {
-     "longText": "Boosh",
-     "shortText": "Boosh"
+     "longText": "YDKJ: Games",
+     "shortText": "YDKJ: Games"
     },
     {
-     "longText": "Walmart+",
-     "shortText": "Walmart+"
+     "longText": "YDKJ Remastered",
+     "shortText": "YDKJ Remastered"
+    },
+    {
+     "longText": "You Don't Know Crack",
+     "shortText": "You Don't Know Crack"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": false,
+   "difficulty": "easy",
+   "id": "200005",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Warm Up!",
+     "shortText": "Warm Up!"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Tricky Triangles!",
+     "shortText": "Tricky Triangles!"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Collect 3!",
+     "shortText": "Collect 3!"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Answer!",
+     "shortText": "Answer!"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Drifting Floors!",
+     "shortText": "Drifting Floors!"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Defend the Castle!",
+     "shortText": "Defend the Castle!"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Disappearing Floor!",
+     "shortText": "Disappearing Floor!"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Avoid Being Spotted!",
+     "shortText": "Avoid Being Spotted!"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Tricky Triangles... Two!",
+     "shortText": "Tricky Triangles... Two!"
+    }
+   ],
+   "leftLabel": "First in Level",
+   "prompt": "No Hints Here! Sections",
+   "rightLabel": "Last in Level",
+   "trash": [
+    {
+     "longText": "Triple Planets!",
+     "shortText": "Triplet Planets!"
+    },
+    {
+     "longText": "Pentagons!",
+     "shortText": "Pentagons!"
+    },
+    {
+     "longText": "Roses!",
+     "shortText": "Roses!"
+    },
+    {
+     "longText": "Again!",
+     "shortText": "Again!"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": true,
+   "difficulty": "easy",
+   "id": "200006",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "Flag 21",
+     "longText": "If my "driveway" almost did you in...",
+     "shortText": "If my "driveway" almost did you in..."
+    },
+    {
+     "displayValue": "Flag 18",
+     "longText": "Troposphere",
+     "shortText": "Troposphere"
+    },
+    {
+     "displayValue": "Flag 17",
+     "longText": "Seeing is Believing",
+     "shortText": "Seeing is Believing"
+    },
+    {
+     "displayValue": "Flag 15",
+     "longText": "Potential for Anything",
+     "shortText": "Potential for Anything"
+    },
+    {
+     "displayValue": "Flag 12",
+     "longText": "Loopy Lagoon",
+     "shortText": "Loopy Lagoon"
+    },
+    {
+     "displayValue": "Flag 10",
+     "longText": "A Gift From the Stars",
+     "shortText": "A Gift From the Stars"
+    },
+    {
+     "displayValue": "Flag 4",
+     "longText": "Soap",
+     "shortText": "Soap"
+    },
+    {
+     "displayValue": "Flag 3",
+     "longText": "Dropzle",
+     "shortText": "Dropzle"
+    },
+    {
+     "displayValue": "Flag 1",
+     "longText": "Paint",
+     "shortText": "Paint"
+    }
+   ],
+   "leftLabel": "First Flag",
+   "prompt": "Celeste Strawberry Jam: Beginner Heartside",
+   "rightLabel": "Last Flag",
+   "trash": [
+    {
+     "longText": "Blueberry Bay",
+     "shortText": "Blueberry Bay"
+    },
+    {
+     "longText": "Forsaken City",
+     "shortText": "Forsaken City"
+    },
+    {
+     "longText": "Sea of Soup",
+     "shortText": "Sea of Soup"
+    },
+    {
+     "longText": "Shattersong",
+     "shortText": "Shattersong"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-lyrics"
+   ],
+   "countrySpecific": false,
+   "difficulty": "easy",
+   "id": "200007",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Juno was mad, he knew he'd been had",
+     "shortText": "Juno was mad..."
+    },
+    {
+     "displayValue": "2",
+     "longText": "Shot at his wily one only friend",
+     "shortText": "Shot at his wily one..."
+    },
+    {
+     "displayValue": "3",
+     "longText": "Every end of the time is another begun",
+     "shortText": "Every end of the time..."
+    },
+    {
+     "displayValue": "4",
+     "longText": "I'm the ruler of everything in the end",
+     "shortText": "I'm the ruler of everything..."
+    },
+    {
+     "displayValue": "5",
+     "longText": "Consequential enough to slip you into a trance",
+     "shortText": "Consequential enough to slip you..."
+    },
+    {
+     "displayValue": "6",
+     "longText": "Detective undercover, brotherhood, objective: obscene",
+     "shortText": "Detective undercover..."
+    },
+    {
+     "displayValue": "7",
+     "longText": "Another timepiece ringing the bell",
+     "shortText": "Another timepiece ringing the bell"
+    },
+    {
+     "displayValue": "8",
+     "longText": "No, you know it must be never-ending, comprehend if you can",
+     "shortText": "No, you know it must be..."
+    },
+    {
+     "displayValue": "9",
+     "longText": "You resemble a fool, although you're only a man",
+     "shortText": "You resemble a fool..."
+    }
+   ],
+   "leftLabel": "Song Start",
+   "prompt": "The Ruler of Everything",
+   "rightLabel": "Song End",
+   "trash": [
+    {
+     "longText": "We were playing in the sand",
+     "shortText": "We were playing in the sand"
+    },
+    {
+     "longText": "The sky is deep and dark and eternally high",
+     "shortText": "The sky is deep..."
+    },
+    {
+     "longText": "I like to take advantage of the bourgeoisie",
+     "shortText": "I like to take advantage..."
+    },
+    {
+     "longText": "Kick it in drive and arrive at the mega mart",
+     "shortText": "Kick it in drive..."
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-lyrics"
+   ],
+   "countrySpecific": false,
+   "difficulty": "medium",
+   "id": "200008",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Six Phalanges",
+     "shortText": "Six Phalanges"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Trojan Horse'd Blood-Brain Barrier",
+     "shortText": "Trojan Horse'd Blood-Brain Barrier"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Lotus Jugular",
+     "shortText": "Lotus Jugular"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Hornet's Nest Rib Cage",
+     "shortText": "Hornet's Nest Rib Cage"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Turk's Head Knotted Vagus Nerve",
+     "shortText": "Turk's Head Knotted Vagus Nerve"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Escher/Mandelbrot Head",
+     "shortText": "Escher/Mandelbrot Head"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Seven-knuckled thumbs",
+     "shortText": "Seven-knuckled thumbs"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Gideon Bugler Pineal Glands",
+     "shortText": "Gideon Bugler Pineal Glands"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Phineas Gage Flagpole-Pierced Ears",
+     "shortText": "Phineas Gage Flagpole-Pierced Ears"
+    }
+   ],
+   "leftLabel": "First Mentioned",
+   "prompt": "Body Parts in BlackBoxWarrior - OKULTRA",
+   "rightLabel": "Last Mentioned",
+   "trash": [
+    {
+     "longText": "Bonfire-Roasted Eyeballs",
+     "shortText": "Bonfire-Roasted Eyeballs"
+    },
+    {
+     "longText": "Coronary Veins",
+     "shortText": "Coronary Veins"
+    },
+    {
+     "longText": "Fired Axons and Tired Dedrites",
+     "shortText": "Fired Axons and Tired Dedrites"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-memes"
+   ],
+   "countrySpecific": false,
+   "difficulty": "medium",
+   "id": "200009",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "January",
+     "longText": "Toothless Dancing",
+     "shortText": "Toothless Dancing"
+    },
+    {
+     "displayValue": "February",
+     "longText": "M Y  P U S S Y  I N  B I O",
+     "shortText": "P U S S Y  I N  B I O"
+    },
+    {
+     "displayValue": "March",
+     "longText": "Erm, what the sigma?",
+     "shortText": "Erm, what the sigma?"
+    },
+    {
+     "displayValue": "April",
+     "longText": "Friendpilled Visitmaxxer",
+     "shortText": "Friendpilled Visitmaxxer"
+    },
+    {
+     "displayValue": "May",
+     "longText": "Galvanized Steel",
+     "shortText": "Galvanized Steel"
+    },
+    {
+     "displayValue": "June",
+     "longText": "Hawk Tuah",
+     "shortText": "Hawk Tuah"
+    },
+    {
+     "displayValue": "July",
+     "longText": "Turkish Pistol Shooter",
+     "shortText": "Turkish Pistol Shooter"
+    },
+    {
+     "displayValue": "August",
+     "longText": "Guess we doin' circles now",
+     "shortText": "Guess we doin' circles now"
+    },
+    {
+     "displayValue": "October",
+     "longText": "Parkour Civilization",
+     "shortText": "Parkour Civilization"
+    }
+   ],
+   "leftLabel": "January",
+   "prompt": "Trending Memes of 2024",
+   "rightLabel": "October",
+   "trash": [
+    {
+     "longText": "Chipi Chipi Chapa Chapa",
+     "shortText": "Chipi Chipi Chapa Chapa"
+    },
+    {
+     "longText": "Toxic Gossip Train",
+     "shortText": "Toxic Gossip Train"
+    },
+    {
+     "longText": "Grimace Shake",
+     "shortText": "Grimace Shake"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-yt"
+   ],
+   "countrySpecific": false,
+   "difficulty": "medium",
+   "id": "200010",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Jump Off Bridge",
+     "shortText": "Jump Off Bridge"
+    },
+    {
+     "displayValue": "2",
+     "longText": "First Parkour Race",
+     "shortText": "First Parkour Race"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Ice House",
+     "shortText": "Ice House"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Old Woman",
+     "shortText": "Old Woman"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Levitation",
+     "shortText": "Levitation"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Parkour Temple Completed",
+     "shortText": "Parkour Temple Completed"
+    },
+    {
+     "displayValue": "7",
+     "longText": "ClownPierce",
+     "shortText": "ClownPierce"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Seawatt Dies",
+     "shortText": "Seawatt Dies"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Parkour God",
+     "shortText": "Parkour God"
+    }
+   ],
+   "leftLabel": "Event Start",
+   "prompt": "Parkour Civilization (Season 2)",
+   "rightLabel": "Event End",
+   "trash": [
+    {
+     "longText": "Parkour Capitalism",
+     "shortText": "Parkour Capitalism"
+    },
+    {
+     "longText": "Parkour Ocean",
+     "shortText": "Parkour Ocean"
+    },
+    {
+     "longText": "2 block 3960-degree jump",
+     "shortText": "2 block 3960-degree jump"
+    },
+    {
+     "longText": "1 block 360 enderchest jump",
+     "shortText": "1 block 360 enderchest jump"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-memes"
+   ],
+   "countrySpecific": true,
+   "difficulty": "hard",
+   "id": "200011",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "Number 10",
+     "longText": "Number 7",
+     "shortText": "Number 7"
+    },
+    {
+     "displayValue": "Number 9",
+     "longText": "Number 8",
+     "shortText": "Number 8"
+    },
+    {
+     "displayValue": "Number 7",
+     "longText": "Number 9",
+     "shortText": "Number 9"
+    },
+    {
+     "displayValue": "Number 6",
+     "longText": "Numbers 4 and 5",
+     "shortText": "Numbers 4 and 5"
+    },
+    {
+     "displayValue": "Number 5",
+     "longText": "Number 4",
+     "shortText": "Number 4"
+    },
+    {
+     "displayValue": "Number 4",
+     "longText": "Number 2",
+     "shortText": "Number 2"
+    },
+    {
+     "displayValue": "Number 3",
+     "longText": "Number 5 (1)",
+     "shortText": "Number 5 (1)"
+    },
+    {
+     "displayValue": "Number 2",
+     "longText": "Number 1",
+     "shortText": "Number 1"
+    },
+    {
+     "displayValue": "Number 1",
+     "longText": "Number 5 (2)",
+     "shortText": "Number 5 (2)"
+    }
+   ],
+   "leftLabel": "Number 10",
+   "prompt": "Top 10 Numbers",
+   "rightLabel": "Number 1",
+   "trash": [
+    {
+     "longText": "Number 3",
+     "shortText": "Number 3"
+    },
+    {
+     "longText": "Number 6",
+     "shortText": "Number 6"
+    },
+    {
+     "longText": "Number 10",
+     "shortText": "Number 10"
+    },
+    {
+     "longText": "Number 69",
+     "shortText": "Number 69"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-numbers"
+   ],
+   "countrySpecific": true,
+   "difficulty": "hard",
+   "id": "200012",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "11",
+     "longText": "Staff",
+     "shortText": "Staff"
+    },
+    {
+     "displayValue": "19",
+     "longText": "Cafe Champion",
+     "shortText": "Cafe Champion"
+    },
+    {
+     "displayValue": "56",
+     "longText": "Ace Creator",
+     "shortText": "Ace Creator"
+    },
+    {
+     "displayValue": "93",
+     "longText": "Rhythm Maestro",
+     "shortText": "Rhythm Maestro"
+    },
+    {
+     "displayValue": "100",
+     "longText": "Part-Time Barista",
+     "shortText": "Part-Time Barista"
+    },
+    {
+     "displayValue": "228",
+     "longText": "Rhythm Completionist",
+     "shortText": "Rhythm Completionist"
+    },
+    {
+     "displayValue": "237",
+     "longText": "Creator",
+     "shortText": "Creator"
+    },
+    {
+     "displayValue": "428",
+     "longText": "Sushi Master",
+     "shortText": "Sushi Master"
+    },
+    {
+     "displayValue": "537",
+     "longText": "Fiery Aficionado",
+     "shortText": "Fiery Aficionado"
+    }
+   ],
+   "leftLabel": "Fewest Users",
+   "prompt": "Role Amount (as of SSSS69)",
+   "rightLabel": "Most Users",
+   "trash": [
+    {
+     "longText": "Tuneful Traveler",
+     "shortText": "Tuneful Traveler"
+    },
+    {
+     "longText": "Comet Commander",
+     "shortText": "Comet Commander"
+    },
+    {
+     "longText": "Starlight Seraph",
+     "shortText": "Starlight Seraph"
+    },
+    {
+     "longText": "Light of Muse",
+     "shortText": "Light of Muse"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-yt"
+   ],
+   "countrySpecific": true,
+   "difficulty": "hard",
+   "id": "200013",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Wow! I'm Hungry!",
+     "shortText": "Wow! I'm Hungry!"
+    },
+    {
+     "displayValue": "2",
+     "longText": "LEGO™️ River™️",
+     "shortText": "LEGO™️ River™️"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Wow! It's Made: Revelations",
+     "shortText": "Wow! It's Made: Revelations"
+    },
+    {
+     "displayValue": "4",
+     "longText": "The LOL King",
+     "shortText": "The LOL King"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Jaunt Ron",
+     "shortText": "Jaunt Ron"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Prawn Srars",
+     "shortText": "Prawn Srars"
+    },
+    {
+     "displayValue": "7",
+     "longText": "The Price is Rice (And Other-Type Game Shots)",
+     "shortText": "The Price is Rice"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Wow! It's Made!",
+     "shortText": "Wow! It's Made!"
+    },
+    {
+     "displayValue": "9",
+     "longText": "24601 Releases a Sammich on Parole",
+     "shortText": "24601 Releases a Sammich on Parole"
+    }
+   ],
+   "leftLabel": "Least Popular",
+   "prompt": "DaThings YTPs",
+   "rightLabel": "Most Popular",
+   "trash": [
+    {
+     "longText": "Wow! It's Paid!",
+     "shortText": "Wow! It's Paid!"
+    },
+    {
+     "longText": "The Rice is Price (And Other Game Shows)",
+     "shortText": "The Rice is Price"
+    },
+    {
+     "longText": "How to Food",
+     "shortText": "How to Food"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-religion"
+   ],
+   "countrySpecific": true,
+   "difficulty": "medium",
+   "id": "200014",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Keter",
+     "shortText": "Keter"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Chokmah",
+     "shortText": "Chokmah"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Binah",
+     "shortText": "Binah"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Chesed",
+     "shortText": "Chesed"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Gevurah",
+     "shortText": "Gevurah"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Tiferet",
+     "shortText": "Tiferet"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Netzach",
+     "shortText": "Netzach"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Hod",
+     "shortText": "Hod"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Yesod",
+     "shortText": "Yesod"
+    }
+   ],
+   "leftLabel": "Top",
+   "prompt": "The Tree of Life (Kabbalah)",
+   "rightLabel": "Bottom",
+   "trash": [
+    {
+     "longText": "Ayin",
+     "shortText": "Ayin"
+    },
+    {
+     "longText": "Samael",
+     "shortText": "Samael"
+    },
+    {
+     "longText": "Qliphoth",
+     "shortText": "Qliphoth"
+    },
+    {
+     "longText": "Thaumiel",
+     "shortText": "Thaumiel"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-speeches"
+   ],
+   "countrySpecific": true,
+   "difficulty": "medium",
+   "id": "200015",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "I do not believe that it is statistically possible",
+     "shortText": "I do not believe..."
+    },
+    {
+     "displayValue": "2",
+     "longText": "There is no achievement or reward for getting these strawberries",
+     "shortText": "There is no achievement..."
+    },
+    {
+     "displayValue": "3",
+     "longText": "Including removing the assist stamp",
+     "shortText": "Including removing the assist..."
+    },
+    {
+     "displayValue": "4",
+     "longText": "I am 100% certain that these are doctored videos",
+     "shortText": "I am 100% certain..."
+    },
+    {
+     "displayValue": "5",
+     "longText": "If you want recognition for the feat",
+     "shortText": "If you want recognition..."
+    },
+    {
+     "displayValue": "6",
+     "longText": "Do not play on an assist mode enabled save slot",
+     "shortText": "Do not play on..."
+    },
+    {
+     "displayValue": "7",
+     "longText": "The only surefire way to prove you did this is to livestream your accomplishment",
+     "shortText": "The only surefire way to prove..."
+    },
+    {
+     "displayValue": "8",
+     "longText": "Think long and hard before you even attempt this. Is it really worth it?",
+     "shortText": "Think long and hard..."
+    },
+    {
+     "displayValue": "9",
+     "longText": "I sincerely hope you can prove me wrong.",
+     "shortText": "I sincerely hope you..."
+    }
+   ],
+   "leftLabel": "First Line",
+   "prompt": "The Golden Strawberry Copypasta",
+   "rightLabel": "Last Line",
+   "trash": [
+    {
+     "longText": "The use of hyper-extended wavedashing has already been proven TAS-only",
+     "shortText": "The use of hyper-extended wavedashing..."
+    },
+    {
+     "longText": "I was in a server right? And all of the channels were just Golden Strawberry stuff.",
+     "shortText": "I was in a server right?"
+    },
+    {
+     "longText": "You didn't grow. You didn't improve. You took a shortcut and gained nothing",
+     "shortText": "You didn't grow..."
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-yt"
+   ],
+   "countrySpecific": false,
+   "difficulty": "easy",
+   "id": "200016",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "$22.99",
+     "longText": "500 Crickets",
+     "shortText": "500 Crickets"
+    },
+    {
+     "displayValue": "$27.99",
+     "longText": "The World's Largest Gummy Worm",
+     "shortText": "The World's Largest Gummy Worm"
+    },
+    {
+     "displayValue": "$32.99",
+     "longText": "Bedtime Santa Merman",
+     "shortText": "Bedtime Santa Merman"
+    },
+    {
+     "displayValue": "$38.99",
+     "longText": "Real Moose Poop 9 Doo Doo Nugget Necklace Jewelery Weird",
+     "shortText": "Moose Poop Necklace"
+    },
+    {
+     "displayValue": "$150",
+     "longText": "A Cursed Sword",
+     "shortText": "A Cursed Sword"
+    },
+    {
+     "displayValue": "$5000",
+     "longText": "Lord of the Rings Hot Cheeto Gandalf",
+     "shortText": "Hot Cheeto Gandalf"
+    },
+    {
+     "displayValue": "$5937",
+     "longText": "10 ft Glacier Yurt Home Kit",
+     "shortText": "10 ft Glacier Yurt"
+    },
+    {
+     "displayValue": "$9499",
+     "longText": "Monopoly REDEMPTION",
+     "shortText": "Monopoly REDEMPTION"
+    },
+    {
+     "displayValue": "$160 mil",
+     "longText": "Rangyai Island",
+     "shortText": "Rangyai Island"
+    }
+   ],
+   "leftLabel": "Insanely Cheap",
+   "prompt": "Price is Right: Terrible Internet Items",
+   "rightLabel": "Extremely Expensive",
+   "trash": [
+    {
+     "longText": "A ticket to Willy Wonka's Chocolate Factory",
+     "shortText": "The Golden Ticket"
+    },
+    {
+     "longText": "Land on Uranus",
+     "shortText": "Land on Uranus"
+    },
+    {
+     "longText": "Free Real Estate",
+     "shortText": "Free Real Estate"
+    },
+    {
+     "longText": "Bucket of Wet Slop",
+     "shortText": "Bucket of Wet Slop"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": true,
+   "difficulty": "medium",
+   "id": "200017",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Grasslands",
+     "shortText": "Grasslands"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Underground",
+     "shortText": "Underground"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Snowfields",
+     "shortText": "Snowfields"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Desert",
+     "shortText": "Desert"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Volcano",
+     "shortText": "Volcano"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Deep Caves",
+     "shortText": "Deep Caves"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Rocky Hills",
+     "shortText": "Rocky Hills"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Mountain",
+     "shortText": "Mountain"
+    },
+    {
+     "displayValue": "9",
+     "longText": "High Grounds",
+     "shortText": "High Grounds"
+    }
+   ],
+   "leftLabel": "Zone 1",
+   "prompt": "Zones of Untitled Door Game",
+   "rightLabel": "Zone 9",
+   "trash": [
+    {
+     "longText": "Facility Headquarters",
+     "shortText": "Facility Headquarters"
+    },
+    {
+     "longText": "Mystic Lake",
+     "shortText": "Mystic Lake"
+    },
+    {
+     "longText": "Heatwave Beach",
+     "shortText": "Heatwave Beach"
+    },
+    {
+     "longText": "Stoneveil",
+     "shortText": "Stoneveil"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": true,
+   "difficulty": "hard",
+   "id": "200018",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Jungle",
+     "shortText": "Jungle"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Awaken",
+     "shortText": "Awaken"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Cavern",
+     "shortText": "Cavern"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Intersection",
+     "shortText": "Intersection"
+    },
+    {
+     "displayValue": "5",
+     "longText": "True Awaken",
+     "shortText": "True Awaken"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Desert",
+     "shortText": "Desert"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Upper Temple",
+     "shortText": "Upper Temple"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Midnight",
+     "shortText": "Midnight"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Great Rift",
+     "shortText": "Great Rift"
+    }
+   ],
+   "leftLabel": "Earlygame",
+   "prompt": "Grass Cutting Incremental (World 2)",
+   "rightLabel": "Endgame",
+   "trash": [
+    {
+     "longText": "Constellations",
+     "shortText": "Constellations"
+    },
+    {
+     "longText": "Astral Prestige",
+     "shortText": "Astral Prestige"
+    },
+    {
+     "longText": "Not a Scam",
+     "shortText": "Not a Scam"
+    },
+    {
+     "longText": "Solarians",
+     "shortText": "Solarians"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-movies"
+   ],
+   "countrySpecific": true,
+   "difficulty": "hard",
+   "id": "200019",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "July 1989",
+     "longText": "Dead Zone",
+     "shortText": "Dead Zone"
+    },
+    {
+     "displayValue": "March 1990",
+     "longText": "The World's Strongest",
+     "shortText": "The World's Strongest"
+    },
+    {
+     "displayValue": "July 1990",
+     "longText": "The Tree of Might",
+     "shortText": "The Tree of Might"
+    },
+    {
+     "displayValue": "March 1991",
+     "longText": "Lord Slug",
+     "shortText": "Lord Slug"
+    },
+    {
+     "displayValue": "July 1991",
+     "longText": "Cooler's Revenge",
+     "shortText": "Cooler's Revenge"
+    },
+    {
+     "displayValue": "March 1993",
+     "longText": "Broly - The Legendary Super Saiyan",
+     "shortText": "The Legendary Super Saiyan"
+    },
+    {
+     "displayValue": "July 1993",
+     "longText": "Bojack Unbound",
+     "shortText": "Bojack Unbound"
+    },
+    {
+     "displayValue": "March 1995",
+     "longText": "Fusion Reborn",
+     "shortText": "Fusion Reborn"
+    },
+    {
+     "displayValue": "July 1995",
+     "longText": "Wrath of the Dragon",
+     "shortText": "Wrath of the Dragon"
+    }
+   ],
+   "leftLabel": "Oldest",
+   "prompt": "Dragon Ball Z Movies",
+   "rightLabel": "Newest",
+   "trash": [
+    {
+     "longText": "The Demon Realm Strikes Back!",
+     "shortText": "The Demon Realm Strikes Back!"
+    },
+    {
+     "longText": "Saiyan Invasion",
+     "shortText": "Saiyan Invasion"
+    },
+    {
+     "longText": "Garlic Jr.",
+     "shortText": "Garlic Jr."
     }
    ],
    "x": false
