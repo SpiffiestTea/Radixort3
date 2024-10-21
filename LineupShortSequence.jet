@@ -1783,7 +1783,7 @@
     {
      "displayValue": "2014",
      "longText": "The Jackbox Party Pack",
-     "shortText": "The Jackbox Party Pack"
+     "shortText": "TJPP"
     },
     {
      "displayValue": "2015",
@@ -1796,29 +1796,29 @@
      "shortText": "Fibbage XL"
     },
     {
-     "displayValue": "5",
-     "longText": "Receleration",
-     "shortText": "Receleration"
+     "displayValue": "2017",
+     "longText": "The Jackbox Party Pack 4",
+     "shortText": "TJPP 4"
     },
     {
-     "displayValue": "6",
-     "longText": "Planetoid",
-     "shortText": "Planetoid"
+     "displayValue": "2020",
+     "longText": "Quiplash 2 Interlashional",
+     "shortText": "Quiplash 2 Interlashional"
     },
     {
-     "displayValue": "7",
-     "longText": "Supernova",
-     "shortText": "Supernova"
+     "displayValue": "2022",
+     "longText": "The Jackbox Party Starter",
+     "shortText": "TJPS"
     },
     {
      "displayValue": "8",
-     "longText": "Centralise",
-     "shortText": "Centralise"
+     "longText": "The Jackbox Party Pack 9",
+     "shortText": "TJPP 9"
     },
     {
-     "displayValue": "9",
-     "longText": "Grassland",
-     "shortText": "Grassland"
+     "displayValue": "2024",
+     "longText": "The Jackbox Survey Scramble",
+     "shortText": "Survey Scramble"
     }
    ],
    "leftLabel": "First Released",
@@ -1826,20 +1826,20 @@
    "rightLabel": "Last Released",
    "trash": [
     {
-     "longText": "Awaken",
-     "shortText": "Awaken"
+     "longText": "Quiplash 2 International",
+     "shortText": "Quiplash 2 International"
     },
     {
-     "longText": "Collapse",
-     "shortText": "Collapse"
+     "longText": "The Jackbox Freaky Pack",
+     "shortText": "The Jackbox Freaky Pack"
     },
     {
-     "longText": "bingus",
-     "shortText": "bingus"
+     "longText": "Fly Swatter",
+     "shortText": "Fly Swatter"
     },
     {
-     "longText": "Midnight",
-     "shortText": "Midnight"
+     "longText": "The Jackbox Starter Pack",
+     "shortText": "TJSP"
     }
    ],
    "x": false
