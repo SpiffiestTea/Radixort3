@@ -1053,9 +1053,9 @@
      "shortText": "No Crypto/NFT"
     }
    ],
-   "leftLabel": "Song Start",
-   "prompt": "Quixort Credits",
-   "rightLabel": "Song End",
+   "leftLabel": "Rule 1",
+   "prompt": "Rules of RDL",
+   "rightLabel": "Rule 9",
    "trash": [
     {
      "longText": "No Adversing in Tachycardia",
@@ -1762,6 +1762,84 @@
     {
      "longText": "Yoshihide",
      "shortText": "Yoshihide"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": false,
+   "difficulty": "easy",
+   "id": "100023",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "2013",
+     "longText": "Clone Booth",
+     "shortText": "Clone Booth"
+    },
+    {
+     "displayValue": "2014",
+     "longText": "The Jackbox Party Pack",
+     "shortText": "The Jackbox Party Pack"
+    },
+    {
+     "displayValue": "2015",
+     "longText": "Quiplash",
+     "shortText": "Quiplash"
+    },
+    {
+     "displayValue": "2016",
+     "longText": "Fibbage XL",
+     "shortText": "Fibbage XL"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Receleration",
+     "shortText": "Receleration"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Planetoid",
+     "shortText": "Planetoid"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Supernova",
+     "shortText": "Supernova"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Centralise",
+     "shortText": "Centralise"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Grassland",
+     "shortText": "Grassland"
+    }
+   ],
+   "leftLabel": "First Released",
+   "prompt": "Jackbox Games",
+   "rightLabel": "Last Released",
+   "trash": [
+    {
+     "longText": "Awaken",
+     "shortText": "Awaken"
+    },
+    {
+     "longText": "Collapse",
+     "shortText": "Collapse"
+    },
+    {
+     "longText": "bingus",
+     "shortText": "bingus"
+    },
+    {
+     "longText": "Midnight",
+     "shortText": "Midnight"
     }
    ],
    "x": false
