@@ -5,4 +5,6 @@
 
 **Lead Writer/Modder**: TypicalKin
 
+**Writers**: Silver
+
 **VA**: spiffiesttea
