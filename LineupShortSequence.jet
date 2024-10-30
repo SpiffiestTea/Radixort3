@@ -16,48 +16,48 @@
     },
     {
      "displayValue": "2",
-     "longText": "Intimate",
-     "shortText": "Intimate"
-    },
-    {
-     "displayValue": "3",
      "longText": "Battleworn Insomniac",
      "shortText": "Battleworn Insomniac"
     },
     {
-     "displayValue": "4",
-     "longText": "Lo-Fi Hip Hop Beats To Treat Patients To",
+     "displayValue": "3",
+     "longText": "Lo-Fi Hip-Hop Beats to Treat Patients To",
      "shortText": "Lo-Fi Beats"
     },
     {
-     "displayValue": "5",
-     "longText": "Supraventricular Tachycardia",
+     "displayValue": "4",
+     "longText": "Supraventricular Tachycardia,
      "shortText": "Supraventricular Tachycardia"
     },
     {
+     "displayValue": "5",
+     "longText": "Sleepy Garden",
+     "shortText": "Sleepy Garden"
+    },
+    {
      "displayValue": "6",
-     "longText": "Puff Piece",
-     "shortText": "Puff Piece"
+     "longText": "Distant Duet",
+     "shortText": "Distant Duet"
     },
     {
      "displayValue": "7",
-     "longText": "Song of the Sea",
-     "shortText": "Song of the Sea"
+     "longText": "Training Doctor's Train Ride Performance",
+     "shortText": "Train Ride Performance"
     },
     {
      "displayValue": "8",
-     "longText": "All The Times",
-     "shortText": "All The Times"
+     "longText": "Lucky Break",
+     "shortText": "Lucky Break"
     },
     {
      "displayValue": "9",
-     "longText": "Sleepy Garden",
-     "shortText": "Sleepy Garden"
+     "longText": "Lo-Fi Beats For Patients To Chill To",
+     "shortText": "Lo-Fi Chill"
     }
    ],
    "leftLabel": "Act 1",
-   "prompt": "Rhythm Doctor Levels (Day)",
-   "rightLabel": "Act 3",
+   "prompt": "Rhythm Doctor (Day Levels)",
+   "rightLabel": "Act 5",
    "trash": [
     {
      "longText": "Battleworm Insomniac",
@@ -66,6 +66,10 @@
     {
      "longText": "Superventricular Tachycardia",
      "shortText": "Superventricular Tachycardia"
+    },
+    {
+     "longText": "One Slip Too Late",
+     "shortText": "One Slip Too Late"
     },
     {
      "longText": "Bomb Sniffing Pomeranian",
@@ -668,7 +672,7 @@
     }
    ],
    "leftLabel": "First Released",
-   "prompt": "ADOFAI Xtra Worlds",
+   "prompt": "ADOFAI Xtra and Challenge Worlds",
    "rightLabel": "Last Released",
    "trash": [
     {
@@ -856,70 +860,70 @@
    "isValid": "",
    "items": [
     {
-     "displayValue": "1",
-     "longText": "Third Wave Flip-Flop",
-     "shortText": "Third Wave Flip-Flop"
+     "displayValue": "85 bpm",
+     "longText": "Love Letters",
+     "shortText": "Love Letters"
     },
     {
-     "displayValue": "2",
-     "longText": "Credits",
-     "shortText": "Credits"
-    },
-    {
-     "displayValue": "3",
-     "longText": "Final Hope",
-     "shortText": "Final Hope"
-    },
-    {
-     "displayValue": "4",
+     "displayValue": "110 bpm",
      "longText": "Distance",
      "shortText": "Distance"
     },
     {
-     "displayValue": "5",
-     "longText": "Rose Garden",
-     "shortText": "Rose Garden"
+     "displayValue": "150 bpm",
+     "longText": "A Dance of Fire and Ice",
+     "shortText": "A Dance of Fire and Ice"
     },
     {
-     "displayValue": "6",
-     "longText": "Fear Grows",
-     "shortText": "Fear Grows"
+     "displayValue": "160 bpm",
+     "longText": "Spin 2 Win",
+     "shortText": "Spin 2 Win"
     },
     {
-     "displayValue": "7",
-     "longText": "Trans-Neptunian Object",
-     "shortText": "Trans-Neptunian Object"
+     "displayValue": "170 bpm",
+     "longText": "The Midnight Train",
+     "shortText": "The Midnight Train"
     },
     {
-     "displayValue": "8",
-     "longText": "Miko Step",
-     "shortText": "Miko Step"
+     "displayValue": "195 bpm",
+     "longText": "La nuit de vif",
+     "shortText": "La nuit de vif"
     },
     {
-     "displayValue": "9",
-     "longText": "Party of Spirits",
-     "shortText": "Party of Spirits"
+     "displayValue": "200 bpm",
+     "longText": "Jungle City",
+     "shortText": "Jungle City"
+    },
+    {
+     "displayValue": "220 bpm",
+     "longText": "Final Hope",
+     "shortText": "Final Hope"
+    },
+    {
+     "displayValue": "320.474 bpm",
+     "longText": "It Go",
+     "shortText": "It Go"
     }
    ],
-   "leftLabel": "First Released",
-   "prompt": "ADOFAI Xtra Worlds",
-   "rightLabel": "Last Released",
+   "leftLabel": "Slowest BPM",
+   "prompt": "ADOFAI Levels",
+   "rightLabel": "Fastest BPM",
    "trash": [
     {
-     "longText": "No Hints Here!",
-     "shortText": "No Hints Here!"
+     "longText": "Worn Out Tapes",
+     "shortText": "Worn Out Tapes"
     },
     {
-     "longText": "Miki Step",
-     "shortText": "Miki Step"
+     "longText": "Steinway",
+     "shortText": "Steinway"
     },
     {
-     "longText": "Third Sun",
-     "shortText": "Third Sun"
+     "longText": "Hercules",
+     "shortText": "Hercules"
     },
     {
-     "longText": "Party of Ghosts",
-     "shortText": "Party of Ghosts"
+     "longText": "One Forgotten Day",
+     "shortText": "One Forgotten Day"
     }
    ],
    "x": false
@@ -1287,9 +1291,9 @@
      "shortText": "Unsustainable Inconsolable"
     }
    ],
-   "leftLabel": "Floor 1",
-   "prompt": "Crypt of the Necrodancer Song Titles",
-   "rightLabel": "Floor 3",
+   "leftLabel": "Act 1",
+   "prompt": "Rhythm Doctor (Night Levels)",
+   "rightLabel": "Act 5",
    "trash": [
     {
      "longText": "Super Battleworm Insomniac",
@@ -1361,9 +1365,9 @@
      "shortText": "Family Guy Cutaway"
     }
    ],
-   "leftLabel": "Start",
-   "prompt": "Daisy Bel",
-   "rightLabel": "End",
+   "leftLabel": "First",
+   "prompt": "Bits from Speedfolded",
+   "rightLabel": "Last",
    "trash": [
     {
      "longText": "Dangerous Nun",
@@ -1460,7 +1464,7 @@
   },
   {
    "categories": [
-    "quix-myth"
+    "quix-literature"
    ],
    "countrySpecific": false,
    "difficulty": "easy",
@@ -1846,7 +1850,163 @@
   },
   {
    "categories": [
-    "quix-placeholder for ending lol"
+    "quix-video-games"
+   ],
+   "countrySpecific": true,
+   "difficulty": "easy",
+   "id": "100024",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Hard",
+     "shortText": "Hard"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Difficult",
+     "shortText": "Difficult"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Challenging",
+     "shortText": "Challenging"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Intense",
+     "shortText": "Intense"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Remorseless",
+     "shortText": "Remorseless"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Insane",
+     "shortText": "Insane"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Extreme",
+     "shortText": "Extreme"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Terrifying",
+     "shortText": "Terrifying"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Catastrophic",
+     "shortText": "Catastrophic"
+    }
+   ],
+   "leftLabel": "Easiest",
+   "prompt": "Juke's Towers of Hell Difficulties",
+   "rightLabel": "Hardest",
+   "trash": [
+    {
+     "longText": "Harder",
+     "shortText": "Harder"
+    },
+    {
+     "longText": "Demonic",
+     "shortText": "Demonic"
+    },
+    {
+     "longText": "Malicious",
+     "shortText": "Malicious"
+    },
+    {
+     "longText": "Unbelievable",
+     "shortText": "Unbelievable"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-lyrics"
+   ],
+   "countrySpecific": false,
+   "difficulty": "medium",
+   "id": "100025",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Daisy, Daisy",
+     "shortText": "Daisy, Daisy"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Give me your answer do",
+     "shortText": "Give me your answer do"
+    },
+    {
+     "displayValue": "3",
+     "longText": "I'm half crazy",
+     "shortText": "I'm half crazy"
+    },
+    {
+     "displayValue": "4",
+     "longText": "All for the love of you",
+     "shortText": "All for the love of you"
+    },
+    {
+     "displayValue": "5",
+     "longText": "It won't be a stylish marriage",
+     "shortText": "It won't be a stylish marriage"
+    },
+    {
+     "displayValue": "6",
+     "longText": "I can't afford a carriage",
+     "shortText": "I can't afford a carriage"
+    },
+    {
+     "displayValue": "7",
+     "longText": "But you look sweet",
+     "shortText": "But you look sweet"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Upon the seat",
+     "shortText": "Upon the seat"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Of a bicycle built for two",
+     "shortText": "Of a bicycle built for two"
+    }
+   ],
+   "leftLabel": "Song Start",
+   "prompt": "Daisy Bell",
+   "rightLabel": "Song End",
+   "trash": [
+    {
+     "longText": "In a world built for you",
+     "shortText": "In a world built for you"
+    },
+    {
+     "longText": "In moments old, we'll make some new",
+     "shortText": "In moments old, we'll make some new"
+    },
+    {
+     "longText": "All that's left is me and you",
+     "shortText": "All that's left is me and you"
+    },
+    {
+     "longText": "Upon whence we meet",
+     "shortText": "Upon whence we meet"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-placeholder"
    ],
    "countrySpecific": true,
    "difficulty": "hard",
