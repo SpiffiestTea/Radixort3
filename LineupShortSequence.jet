@@ -26,7 +26,7 @@
     },
     {
      "displayValue": "4",
-     "longText": "Supraventricular Tachycardia,
+     "longText": "Supraventricular Tachycardia",
      "shortText": "Supraventricular Tachycardia"
     },
     {
@@ -2010,70 +2010,70 @@
    ],
    "countrySpecific": true,
    "difficulty": "hard",
-   "id": "94041",
+   "id": "900000",
    "isValid": "",
    "items": [
     {
+     "displayValue": "1",
+     "longText": "Camembert Cheese",
+     "shortText": "Camembert Cheese"
+    },
+    {
      "displayValue": "2",
-     "longText": "Miami Marlins",
-     "shortText": "Miami Marlins"
+     "longText": "Swiss Cheese",
+     "shortText": "Swiss Cheese"
     },
     {
      "displayValue": "3",
-     "longText": "Chicago Cubs",
-     "shortText": "Chicago Cubs"
+     "longText": "Manchego Cheese",
+     "shortText": "Manchego Cheese"
     },
     {
      "displayValue": "4",
-     "longText": "Detroit Tigers",
-     "shortText": "Detroit Tigers"
+     "longText": "Goat Cheese",
+     "shortText": "Goat Cheese"
     },
     {
      "displayValue": "5",
-     "longText": "Pittsburgh Pirates",
-     "shortText": "Pittsburgh Pirates"
+     "longText": "Mozzarella Cheese",
+     "shortText": "Mozzarella Cheese"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Roquefort Cheese",
+     "shortText": "Roquefort Cheese"
     },
     {
      "displayValue": "7",
-     "longText": "Los Angeles Dodgers",
-     "shortText": "Los Angeles Dodgers"
+     "longText": "Gouda Cheese",
+     "shortText": "Gouda Cheese"
     },
     {
      "displayValue": "8",
-     "longText": "San Francisco Giants",
-     "shortText": "San Francisco Giants"
+     "longText": "Brie",
+     "shortText": "Brie"
     },
     {
      "displayValue": "9",
-     "longText": "Boston Red Sox",
-     "shortText": "Boston Red Sox"
-    },
-    {
-     "displayValue": "11",
-     "longText": "St. Louis Cardinals",
-     "shortText": "St. Louis Cardinals"
-    },
-    {
-     "displayValue": "27",
-     "longText": "New York Yankees",
-     "shortText": "New York Yankees"
+     "longText": "Cheddar Cheese",
+     "shortText": "Cheddar Cheese"
     }
    ],
-   "leftLabel": "Least Victories",
-   "prompt": "World Series Victories (As of 2021)",
-   "rightLabel": "Most Victories",
+   "leftLabel": "This",
+   "prompt": "wait hey you're not supposed to see this",
+   "rightLabel": "That",
    "trash": [
     {
-     "longText": "East High Wildcats",
-     "shortText": "East High Wildcats"
+     "longText": "beans",
+     "shortText": "beans"
     },
     {
-     "longText": "Milwaukee Beers",
-     "shortText": "Milwaukee Beers"
+     "longText": "beans",
+     "shortText": "beans"
     },
     {
-     "longText": "New England Dads",
-     "shortText": "New England Dads"
+     "longText": "beans",
+     "shortText": "beans"
     }
    ],
    "x": false
