@@ -441,9 +441,9 @@
      "shortText": "Luke Carter dies"
     }
    ],
-   "leftLabel": "Start",
+   "leftLabel": "Act 1",
    "prompt": "Story of Inscryption",
-   "rightLabel": "End",
+   "rightLabel": "Act 3",
    "trash": [
     {
      "longText": "OLD_DATA is discarded",
@@ -1810,14 +1810,14 @@
      "shortText": "Quiplash 2 Interlashional"
     },
     {
+     "displayValue": "2021",
+     "longText": "The Jackbox Party Pack 8",
+     "shortText": "TJPP 8"
+    },
+    {
      "displayValue": "2022",
      "longText": "The Jackbox Party Starter",
      "shortText": "TJPS"
-    },
-    {
-     "displayValue": "8",
-     "longText": "The Jackbox Party Pack 9",
-     "shortText": "TJPP 9"
     },
     {
      "displayValue": "2024",
@@ -1835,7 +1835,7 @@
     },
     {
      "longText": "The Jackbox Freaky Pack",
-     "shortText": "The Jackbox Freaky Pack"
+     "shortText": "TJFP"
     },
     {
      "longText": "Fly Swatter",
