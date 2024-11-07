@@ -1028,33 +1028,33 @@
     },
     {
      "displayValue": "Rule 4",
-     "longText": "No Harassing Mods/Devs",
-     "shortText": "No Harassing Mods/Devs"
+     "longText": "Advertisements go in #Tachycardia",
+     "shortText": "Advertise in Tachy"
     },
     {
      "displayValue": "Rule 5",
+     "longText": "No Harassing Mods/Devs",
+     "shortText": "No Harassment"
+    },
+    {
+     "displayValue": "Rule 6",
      "longText": "No Doxxing",
      "shortText": "No Doxxing"
     },
     {
-     "displayValue": "Rule 6",
-     "longText": "No NSFW Content",
-     "shortText": "No NSFW Content"
+     "displayValue": "Rule 7",
+     "longText": "No NSFW",
+     "shortText": "No NSFW"
     },
     {
-     "displayValue": "Rule 7",
+     "displayValue": "Rule 8",
      "longText": "No Datamining",
      "shortText": "No Datamining"
     },
     {
-     "displayValue": "Rule 8",
-     "longText": "No Pirating 7BG Games",
-     "shortText": "No Pirating 7BG Games"
-    },
-    {
      "displayValue": "Rule 9",
-     "longText": "No Crypto/NFT",
-     "shortText": "No Crypto/NFT"
+     "longText": "No Pirating 7BG Games",
+     "shortText": "No Pirating"
     }
    ],
    "leftLabel": "Rule 1",
