@@ -161,7 +161,7 @@
     "quix-video-games"
    ],
    "countrySpecific": false,
-   "difficulty": "medium",
+   "difficulty": "easy",
    "id": "100002",
    "isValid": "",
    "items": [
@@ -621,7 +621,7 @@
     "quix-video-games"
    ],
    "countrySpecific": false,
-   "difficulty": "medium",
+   "difficulty": "easy",
    "id": "100008",
    "isValid": "",
    "items": [
@@ -777,7 +777,7 @@
     "quix-lyrics"
    ],
    "countrySpecific": false,
-   "difficulty": "medium",
+   "difficulty": "easy",
    "id": "100010",
    "isValid": "",
    "items": [
@@ -933,7 +933,7 @@
     "quix-board-games"
    ],
    "countrySpecific": false,
-   "difficulty": "hard",
+   "difficulty": "medium",
    "id": "100012",
    "isValid": "",
    "items": [
@@ -1163,7 +1163,7 @@
     "quix-yt"
    ],
    "countrySpecific": true,
-   "difficulty": "hard",
+   "difficulty": "medium",
    "id": "100015",
    "isValid": "",
    "items": [
@@ -1241,7 +1241,7 @@
     "quix-video-games"
    ],
    "countrySpecific": false,
-   "difficulty": "medium",
+   "difficulty": "easy",
    "id": "100016",
    "isValid": "",
    "items": [
@@ -1393,7 +1393,7 @@
     "quix-yt"
    ],
    "countrySpecific": false,
-   "difficulty": "hard",
+   "difficulty": "medium",
    "id": "100018",
    "isValid": "",
    "items": [
@@ -1619,7 +1619,7 @@
     "quix-video-games"
    ],
    "countrySpecific": true,
-   "difficulty": "hard",
+   "difficulty": "medium",
    "id": "100021",
    "isValid": "",
    "items": [
@@ -1697,7 +1697,7 @@
     "quix-video-games"
    ],
    "countrySpecific": true,
-   "difficulty": "hard",
+   "difficulty": "medium",
    "id": "100022",
    "isValid": "",
    "items": [
@@ -1931,7 +1931,7 @@
     "quix-lyrics"
    ],
    "countrySpecific": false,
-   "difficulty": "medium",
+   "difficulty": "easy",
    "id": "100025",
    "isValid": "",
    "items": [
