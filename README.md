@@ -3,8 +3,24 @@
 
 # Credits
 
-**Lead Writer/Modder**: TypicalKin
+<ins>**Lead Writer/Modder**</ins>
 
-**Writers**: Silver
+TypicalKin
 
-**VA**: spiffiesttea
+<ins>**Writers**</ins>
+
+Sliver
+
+hnter
+
+spiffiesttea
+
+<ins>**Proofreaders**</ins>
+
+Sliver
+
+<ins>**VA**</ins>
+
+spiffiesttea
+
+TypicalKin
