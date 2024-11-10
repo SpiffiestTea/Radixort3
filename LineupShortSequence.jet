@@ -2006,6 +2006,379 @@
   },
   {
    "categories": [
+    "quix-animals"
+   ],
+   "countrySpecific": false,
+   "difficulty": "easy",
+   "id": "100026",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "7cm",
+     "longText": "Minnow (Phoxinus phoxinus)",
+     "shortText": "Minnow"
+    },
+    {
+     "displayValue": "30cm",
+     "longText": "Atlantic Mackerel (Scomber scombrus)",
+     "shortText": "Atlantic Mackerel"
+    },
+    {
+     "displayValue": "40cm",
+     "longText": "Remora (Remora remora)",
+     "shortText": "Remora"
+    },
+    {
+     "displayValue": "60cm",
+     "longText": "Rainbow Trout (Oncorhynchus mykiss)",
+     "shortText": "Rainbow Trout"
+    },
+    {
+     "displayValue": "100cm",
+     "longText": "Albacore (Thunnus alalunga)",
+     "shortText": "Albacore"
+    },
+    {
+     "displayValue": "170cm",
+     "longText": "Wahoo (Acanthocybium solandri)",
+     "shortText": "Wahoo"
+    },
+    {
+     "displayValue": "300cm",
+     "longText": "Oarfish (Regalecus glesne)",
+     "shortText": "Oarfish"
+    },
+    {
+     "displayValue": "450cm",
+     "longText": "Manta Ray (Mobula birostris)",
+     "shortText": "Manta Ray"
+    },
+    {
+     "displayValue": "1000cm",
+     "longText": "Whale Shark (Rhincodon typus)",
+     "shortText": "Whale Shark"
+    }
+   ],
+   "leftLabel": "Shortest",
+   "prompt": "You Know What That Means...",
+   "rightLabel": "Longest",
+   "trash": [
+    {
+     "longText": "Yippee (Acanthocybium cola)",
+     "shortText": "Yippee"
+    },
+    {
+     "longText": "Red Herring (Purgamentum caudex)",
+     "shortText": "Red Herring"
+    },
+    {
+     "longText": "Puckering Blinnow (Narrolingus piscatum)",
+     "shortText": "Puckering Blinnow"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-astrology"
+   ],
+   "countrySpecific": false,
+   "difficulty": "easy",
+   "id": "100027",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "0",
+     "longText": "The Fool",
+     "shortText": "The Fool"
+    },
+    {
+     "displayValue": "I",
+     "longText": "The Magician",
+     "shortText": "The Magician"
+    },
+    {
+     "displayValue": "II",
+     "longText": "The High Priestess",
+     "shortText": "The High Priestess"
+    },
+    {
+     "displayValue": "III",
+     "longText": "The Empress",
+     "shortText": "The Empress"
+    },
+    {
+     "displayValue": "IV",
+     "longText": "The Emperor",
+     "shortText": "The Emperor"
+    },
+    {
+     "displayValue": "V",
+     "longText": "The Hierophant",
+     "shortText": "The Hierophant"
+    },
+    {
+     "displayValue": "VI",
+     "longText": "The Lovers",
+     "shortText": "The Lovers"
+    },
+    {
+     "displayValue": "VII",
+     "longText": "The Chariot",
+     "shortText": "The Chariot"
+    },
+    {
+     "displayValue": "VIII",
+     "longText": "Strength",
+     "shortText": "Strength"
+    },
+    {
+     "displayValue": "IX",
+     "longText": "The Hermit",
+     "shortText": "The Hermit"
+    },
+    {
+     "displayValue": "X",
+     "longText": "Wheel of Fortune",
+     "shortText": "Wheel of Fortune"
+    },
+    {
+     "displayValue": "XI",
+     "longText": "Justice",
+     "shortText": "Justice"
+    },
+    {
+     "displayValue": "XII",
+     "longText": "The Hanged Man",
+     "shortText": "The Hanged Man"
+    },
+    {
+     "displayValue": "XIII",
+     "longText": "Death",
+     "shortText": "Death"
+    },
+    {
+     "displayValue": "XIV",
+     "longText": "Temperance",
+     "shortText": "Temperance"
+    },
+    {
+     "displayValue": "XV",
+     "longText": "The Devil",
+     "shortText": "The Devil"
+    },
+    {
+     "displayValue": "XVI",
+     "longText": "The Tower",
+     "shortText": "The Tower"
+    },
+    {
+     "displayValue": "XVII",
+     "longText": "The Star",
+     "shortText": "The Star"
+    },
+    {
+     "displayValue": "XVIII",
+     "longText": "The Moon",
+     "shortText": "The Moon"
+    },
+    {
+     "displayValue": "XIX",
+     "longText": "The Sun",
+     "shortText": "The Sun"
+    },
+    {
+     "displayValue": "XX",
+     "longText": "Judgement",
+     "shortText": "Judgement"
+    },
+    {
+     "displayValue": "XXI",
+     "longText": "The World",
+     "shortText": "The World"
+    }
+   ],
+   "leftLabel": "First",
+   "prompt": "The Major Arcana",
+   "rightLabel": "Last",
+   "trash": [
+    {
+     "longText": "Prudence",
+     "shortText": "Prudence"
+    },
+    {
+     "longText": "Ace of Pentacles",
+     "shortText": "Ace of Pentacles"
+    },
+    {
+     "longText": "The Recluse",
+     "shortText": "The Recluse"
+    },
+    {
+     "longText": "Three of Cups",
+     "shortText": "Three of Cups"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-dance"
+   ],
+   "countrySpecific": false,
+   "difficulty": "easy",
+   "id": "100028",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Right arm out",
+     "shortText": "Right arm out"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Left arm out",
+     "shortText": "Left arm out"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Right palm up",
+     "shortText": "Right palm up"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Left palm up",
+     "shortText": "Left palm up"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Cross hands over shoulders",
+     "shortText": "Cross hands over shoulders"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Put hands behind head",
+     "shortText": "Put hands behind head"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Cross hands over hips",
+     "shortText": "Cross hands over hips"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Place hands on sides of waist",
+     "shortText": "Hands on Waist"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Do a circular hip motion",
+     "shortText": "Circular Hip Motion"
+    }
+   ],
+   "leftLabel": "Dance Start",
+   "prompt": "The Macarena Dance",
+   "rightLabel": "Dance Finish",
+   "trash": [
+    {
+     "longText": "Left foot stomp",
+     "shortText": "Left foot stomp"
+    },
+    {
+     "longText": "Clap your hands",
+     "shortText": "Clap your hands"
+    },
+    {
+     "longText": "Clasp palms together",
+     "shortText": "Clasp palms together"
+    },
+    {
+     "longText": "Move side to side",
+     "shortText": "Move side to side"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-dance"
+   ],
+   "countrySpecific": false,
+   "difficulty": "medium",
+   "id": "100029",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "To the Right Now!",
+     "shortText": "To the Right Now!"
+    },
+    {
+     "displayValue": "2",
+     "longText": "To the Left!",
+     "shortText": "To the Left!"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Take it back now, y'all!",
+     "shortText": "Take it back now, y'all!"
+    },
+    {
+     "displayValue": "4",
+     "longText": "One hop this time!",
+     "shortText": "One hop this time!"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Right foot, two stomps!",
+     "shortText": "Right foot, two stomps!"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Left foot, two stomps!",
+     "shortText": "Left foot, two stomps!"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Slide to the left!",
+     "shortText": "Slide to the left!"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Criss Cross!",
+     "shortText": "Criss Cross!"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Let's go to work!",
+     "shortText": "Let's go to work!"
+    }
+   ],
+   "leftLabel": "Dance Start",
+   "prompt": "The Cha Cha Slide (Now It's Time To Get Funky!)",
+   "rightLabel": "Dance Finish",
+   "trash": [
+    {
+     "longText": "Boogie Woogie Woogie!",
+     "shortText": "Boogie Woogie Woogie!"
+    },
+    {
+     "longText": "Do your dance!",
+     "shortText": "Do your dance!"
+    },
+    {
+     "longText": "Peace!",
+     "shortText": "Peace!"
+    },
+    {
+     "longText": "Ay, Macarena!",
+     "shortText": "Ay, Macarena!"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
     "quix-placeholder"
    ],
    "countrySpecific": true,
