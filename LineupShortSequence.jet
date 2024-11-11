@@ -2379,6 +2379,942 @@
   },
   {
    "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": false,
+   "difficulty": "medium",
+   "id": "100030",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "Chapter 1",
+     "longText": "The Courtesy Call",
+     "shortText": "The Courtesy Call"
+    },
+    {
+     "displayValue": "Chapter 2",
+     "longText": "The Cold Boot",
+     "shortText": "The Cold Boot"
+    },
+    {
+     "displayValue": "Chapter 3",
+     "longText": "The Return",
+     "shortText": "The Return"
+    },
+    {
+     "displayValue": "Chapter 4",
+     "longText": "The Surprise",
+     "shortText": "The Surprise"
+    },
+    {
+     "displayValue": "Chapter 5",
+     "longText": "The Escape",
+     "shortText": "The Escape"
+    },
+    {
+     "displayValue": "Chapter 6",
+     "longText": "The Fall",
+     "shortText": "The Fall"
+    },
+    {
+     "displayValue": "Chapter 7",
+     "longText": "The Reunion",
+     "shortText": "The Reunion"
+    },
+    {
+     "displayValue": "Chapter 8",
+     "longText": "The Itch",
+     "shortText": "The Itch"
+    },
+    {
+     "displayValue": "Chapter 9",
+     "longText": "The Part Where He Kills You",
+     "shortText": "The Part Where He Kills You"
+    }
+   ],
+   "leftLabel": "Chapter 1",
+   "prompt": "Portal 2 Story Chapters",
+   "rightLabel": "Chapter 9",
+   "trash": [
+    {
+     "longText": "The Ascent",
+     "shortText": "The Ascent"
+    },
+    {
+     "longText": "The Diversion",
+     "shortText": "The Diversion"
+    },
+    {
+     "longText": "The Core",
+     "shortText": "The Core"
+    },
+    {
+     "longText": "The Scratch",
+     "shortText": "The Scratch"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": false,
+   "difficulty": "medium",
+   "id": "100031",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "#06",
+     "longText": "Kirby",
+     "shortText": "Kirby"
+    },
+    {
+     "displayValue": "#07",
+     "longText": "Fox",
+     "shortText": "Fox"
+    },
+    {
+     "displayValue": "#14",
+     "longText": "Bowser",
+     "shortText": "Bowser"
+    },
+    {
+     "displayValue": "#22",
+     "longText": "Young Link",
+     "shortText": "Young Link"
+    },
+    {
+     "displayValue": "#35",
+     "longText": "Charizard",
+     "shortText": "Charizard"
+    },
+    {
+     "displayValue": "#53",
+     "longText": "Mii Gunner",
+     "shortText": "Mii Gunner"
+    },
+    {
+     "displayValue": "#60",
+     "longText": "Ryu",
+     "shortText": "Ryu"
+    },
+    {
+     "displayValue": "#77",
+     "longText": "Steve",
+     "shortText": "Steve"
+    },
+    {
+     "displayValue": "#78",
+     "longText": "Sephiroth",
+     "shortText": "Sephiroth"
+    }
+   ],
+   "leftLabel": "First",
+   "prompt": "Super Smash Bros. Ultimate Fighters",
+   "rightLabel": "Last",
+   "trash": [
+    {
+     "longText": "Sans",
+     "shortText": "Sans"
+    },
+    {
+     "longText": "Waluigi",
+     "shortText": "Waluigi"
+    },
+    {
+     "longText": "Rex",
+     "shortText": "Rex"
+    },
+    {
+     "longText": "Master Hand",
+     "shortText": "Master Hand"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": true,
+   "difficulty": "hard",
+   "id": "100032",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Ace",
+     "shortText": "Ace"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Snake",
+     "shortText": "Snake"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Santa",
+     "shortText": "Santa"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Clover",
+     "shortText": "Clover"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Jupiter",
+     "shortText": "Jupiter"
+    },
+    {
+     "displayValue": "6",
+     "longText": "June",
+     "shortText": "June"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Seven",
+     "shortText": "Seven"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Lotus",
+     "shortText": "Lotus"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Ninth Man",
+     "shortText": "Ninth Man"
+    }
+   ],
+   "leftLabel": "Number 1",
+   "prompt": "Characters in Nine Hours, Nine Persons, Nine Doors",
+   "rightLabel": "Number 9",
+   "trash": [
+    {
+     "longText": "Sigma",
+     "shortText": "Sigma"
+    },
+    {
+     "longText": "Carlos",
+     "shortText": "Carlos"
+    },
+    {
+     "longText": "Q",
+     "shortText": "Q"
+    },
+    {
+     "longText": "Makoto",
+     "shortText": "Makoto"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": true,
+   "difficulty": "medium",
+   "id": "100033",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "2008",
+     "longText": "Meat Boy",
+     "shortText": "Meat Boy"
+    },
+    {
+     "displayValue": "2009",
+     "longText": "Spewer",
+     "shortText": "Spewer"
+    },
+    {
+     "displayValue": "2010",
+     "longText": "Super Meat Boy",
+     "shortText": "Super Meat Boy"
+    },
+    {
+     "displayValue": "2011",
+     "longText": "The Binding of Isaac",
+     "shortText": "The Binding of Isaac"
+    },
+    {
+     "displayValue": "2017",
+     "longText": "The End is Nigh",
+     "shortText": "The End is Nigh"
+    },
+    {
+     "displayValue": "2019",
+     "longText": "The Legend of Bum-bo",
+     "shortText": "The Legend of Bum-bo"
+    },
+    {
+     "displayValue": "2020",
+     "longText": "Super Meat Boy Forever",
+     "shortText": "Super Meat Boy Forever"
+    },
+    {
+     "displayValue": "2021",
+     "longText": "TBOI: Repentence",
+     "shortText": "TBOI: Repentence"
+    },
+    {
+     "displayValue": "2023",
+     "longText": "Dr. Fetus' Mean Meat Machine",
+     "shortText": "Dr. Fetus' Mean Meat Machine"
+    }
+   ],
+   "leftLabel": "Oldest",
+   "prompt": "Edmund McMillen Games",
+   "rightLabel": "Newest",
+   "trash": [
+    {
+     "longText": "TBOI: Antibirth",
+     "shortText": "TBOI: Antibirth"
+    },
+    {
+     "longText": "VVVVVV",
+     "shortText": "VVVVVV"
+    },
+    {
+     "longText": "Super Hexagon",
+     "shortText": "Super Hexagon"
+    },
+    {
+     "longText": "Dr. Fetus' Meat Grinder",
+     "shortText": "Dr. Fetus' Meat Grinder"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": false,
+   "difficulty": "medium",
+   "id": "100034",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Dummy",
+     "shortText": "Dummy"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Migosp",
+     "shortText": "Migosp"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Ice Cap",
+     "shortText": "Ice Cap"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Gyftrot",
+     "shortText": "Gyftrot"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Papyrus",
+     "shortText": "Papyrus"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Woshua",
+     "shortText": "Woshua"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Tsunderplane",
+     "shortText": "Tsunderplane"
+    },
+    {
+     "displayValue": "8",
+     "longText": "So Sorry",
+     "shortText": "So Sorry"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Astigmatism",
+     "shortText": "Astigmatism"
+    }
+   ],
+   "leftLabel": "Earliest",
+   "prompt": "Undertale Monster Encounters (In Battle)",
+   "rightLabel": "Latest",
+   "trash": [
+    {
+     "longText": "Martlet",
+     "shortText": "Martlet"
+    },
+    {
+     "longText": "Myopia",
+     "shortText": "Myopia"
+    },
+    {
+     "longText": "Frogget",
+     "shortText": "Frogget"
+    },
+    {
+     "longText": "Chara",
+     "shortText": "Chara"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": true,
+   "difficulty": "medium",
+   "id": "100035",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Red & Blue Noobs",
+     "shortText": "Red & Blue Noobs"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Noobador",
+     "shortText": "Noobador"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Supreme Ant",
+     "shortText": "Supreme Ant"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Sentient Statue",
+     "shortText": "Sentient Statue"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Cruel King",
+     "shortText": "Cruel King"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Komodo Dragon",
+     "shortText": "Komodo Dragon"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Bubonic Plant",
+     "shortText": "Bubonic Plant"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Turkey",
+     "shortText": "Turkey"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Hatred",
+     "shortText": "Hatred"
+    }
+   ],
+   "leftLabel": "First",
+   "prompt": "Bosses in Block Tales",
+   "rightLabel": "Last",
+   "trash": [
+    {
+     "longText": "Apathy",
+     "shortText": "Apathy"
+    },
+    {
+     "longText": "Terry",
+     "shortText": "Terry"
+    },
+    {
+     "longText": "Blackrock Knight",
+     "shortText": "Blackrock Knight"
+    },
+    {
+     "longText": "F'Ella",
+     "shortText": "F'Ella"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": false,
+   "difficulty": "easy",
+   "id": "100036",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Classics",
+     "shortText": "Classics"
+    },
+    {
+     "displayValue": "2",
+     "longText": "X Beats",
+     "shortText": "X Beats"
+    },
+    {
+     "displayValue": "3",
+     "longText": "Oneshots",
+     "shortText": "Oneshots"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Swing Oneshots",
+     "shortText": "Swing Oneshots"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Multiple Patients",
+     "shortText": "Multiple Patients"
+    },
+    {
+     "displayValue": "6",
+     "longText": "Swing Classics",
+     "shortText": "Swing Classics"
+    },
+    {
+     "displayValue": "7",
+     "longText": "Holds",
+     "shortText": "Holds"
+    },
+    {
+     "displayValue": "8",
+     "longText": "Triangleshots",
+     "shortText": "Triangleshots"
+    },
+    {
+     "displayValue": "9",
+     "longText": "Freezeshots",
+     "shortText": "Freezeshots"
+    }
+   ],
+   "leftLabel": "First",
+   "prompt": "Gimmicks Introduced in Rhythm Doctor",
+   "rightLabel": "Last",
+   "trash": [
+    {
+     "longText": "Holdshots",
+     "shortText": "Holdshots"
+    },
+    {
+     "longText": "Pyro/Cryo Arrhythmia",
+     "shortText": "Pyro/Cryo Arrhythmia"
+    },
+    {
+     "longText": "3peat",
+     "shortText": "3peat"
+    },
+    {
+     "longText": "Metronomic Tachycardia",
+     "shortText": "Metronomia"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-video-games"
+   ],
+   "countrySpecific": false,
+   "difficulty": "medium",
+   "id": "100037",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "65bpm",
+     "longText": "Mumurs",
+     "shortText": "Mumurs"
+    },
+    {
+     "displayValue": "78.5bpm",
+     "longText": "Know You",
+     "shortText": "Know You"
+    },
+    {
+     "displayValue": "98bpm",
+     "longText": "Distant Duet",
+     "shortText": "Distant Duet"
+    },
+    {
+     "displayValue": "110bpm",
+     "longText": "Beans Hopper",
+     "shortText": "Beans Hopper"
+    },
+    {
+     "displayValue": "120bpm",
+     "longText": "Song of the Sea",
+     "shortText": "Song of the Sea"
+    },
+    {
+     "displayValue": "130bpm",
+     "longText": "Samurai Dubstep",
+     "shortText": "Samurai Dubstep"
+    },
+    {
+     "displayValue": "145bpm",
+     "longText": "All the Times",
+     "shortText": "All the Times"
+    },
+    {
+     "displayValue": "162bpm",
+     "longText": "wish i could care less",
+     "shortText": "wish i could care less"
+    },
+    {
+     "displayValue": "180bpm",
+     "longText": "Unreachable",
+     "shortText": "Unreachable"
+    }
+   ],
+   "leftLabel": "Slowest BPM",
+   "prompt": "Rhythm Doctor Levels",
+   "rightLabel": "Fastest BPM",
+   "trash": [
+    {
+     "longText": "Delay Pedal",
+     "shortText": "Delay Pedal"
+    },
+    {
+     "longText": "Unwell",
+     "shortText": "Unwell"
+    },
+    {
+     "longText": "Op10No4",
+     "shortText": "Op10No4"
+    },
+    {
+     "longText": "Among Us Musical",
+     "shortText": "Among Us Musical"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-geography"
+   ],
+   "countrySpecific": false,
+   "difficulty": "easy",
+   "id": "100038",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1",
+     "longText": "Vietnam",
+     "shortText": "Vietnam"
+    },
+    {
+     "displayValue": "2",
+     "longText": "Panama",
+     "shortText": "Panama"
+    },
+    {
+     "displayValue": "4",
+     "longText": "Federated States of Micronesia",
+     "shortText": "Micronesia"
+    },
+    {
+     "displayValue": "5",
+     "longText": "Honduras",
+     "shortText": "Honduras"
+    },
+    {
+     "displayValue": "15",
+     "longText": "Cook Islands",
+     "shortText": "Cook Islands"
+    },
+    {
+     "displayValue": "17",
+     "longText": "Ohio",
+     "shortText": "Ohio"
+    },
+    {
+     "displayValue": "24",
+     "longText": "Brazil",
+     "shortText": "Brazil"
+    },
+    {
+     "displayValue": "50",
+     "longText": "USA",
+     "shortText": "USA"
+    },
+    {
+     "displayValue": "61",
+     "longText": "Missouri",
+     "shortText": "Missouri"
+    }
+   ],
+   "leftLabel": "Least",
+   "prompt": "Flags with Stars",
+   "rightLabel": "Most",
+   "trash": [
+    {
+     "longText": "Pocatello",
+     "shortText": "Pocatello"
+    },
+    {
+     "longText": "Sealand",
+     "shortText": "Sealand"
+    },
+    {
+     "longText": "Middlesea",
+     "shortText": "Middlesea"
+    },
+    {
+     "longText": "Uganda",
+     "shortText": "Uganda"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-geography"
+   ],
+   "countrySpecific": false,
+   "difficulty": "medium",
+   "id": "100001",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "-75.7°",
+     "longText": "Ottawa",
+     "shortText": "Ottawa"
+    },
+    {
+     "displayValue": "-74.1°",
+     "longText": "Bogotá",
+     "shortText": "Bogotá"
+    },
+    {
+     "displayValue": "-6.9°",
+     "longText": "Rabat",
+     "shortText": "Rabat"
+    },
+    {
+     "displayValue": "12.5°",
+     "longText": "Rome",
+     "shortText": "Rome"
+    },
+    {
+     "displayValue": "13.2°",
+     "longText": "Tripoli",
+     "shortText": "Tripoli"
+    },
+    {
+     "displayValue": "30.5°",
+     "longText": "Kyiv",
+     "shortText": "Kyiv"
+    },
+    {
+     "displayValue": "51.3°",
+     "longText": "Tehran",
+     "shortText": "Tehran"
+    },
+    {
+     "displayValue": "105.9°",
+     "longText": "Hanoi",
+     "shortText": "Hanoi"
+    },
+    {
+     "displayValue": "116.4°",
+     "longText": "Beijing",
+     "shortText": "Beijing"
+    }
+   ],
+   "leftLabel": "-180°",
+   "prompt": "World Capitals By Longitude",
+   "rightLabel": "180°",
+   "trash": [
+    {
+     "longText": "Dubai",
+     "shortText": "Dubai"
+    },
+    {
+     "longText": "Kraków",
+     "shortText": "Kraków"
+    },
+    {
+     "longText": "Seville",
+     "shortText": "Seville"
+    },
+    {
+     "longText": "New York City",
+     "shortText": "New York City"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-geography"
+   ],
+   "countrySpecific": true,
+   "difficulty": "medium",
+   "id": "100040",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "-34.9°",
+     "longText": "Montevideo",
+     "shortText": "Montevideo"
+    },
+    {
+     "displayValue": "-12.1°",
+     "longText": "Lima",
+     "shortText": "Lima"
+    },
+    {
+     "displayValue": "-1.3°",
+     "longText": "Nairobi",
+     "shortText": "Nairobi"
+    },
+    {
+     "displayValue": "13.7°",
+     "longText": "Bangkok",
+     "shortText": "Bangkok"
+    },
+    {
+     "displayValue": "19.5°",
+     "longText": "Mexico City",
+     "shortText": "Mexico City"
+    },
+    {
+     "displayValue": "37.5°",
+     "longText": "Seoul",
+     "shortText": "Seoul"
+    },
+    {
+     "displayValue": "38°",
+     "longText": "Athens",
+     "shortText": "Athens"
+    },
+    {
+     "displayValue": "55.8°",
+     "longText": "Moscow",
+     "shortText": "Moscow"
+    },
+    {
+     "displayValue": "64.2°",
+     "longText": "Reykjavik",
+     "shortText": "Reykjavik"
+    }
+   ],
+   "leftLabel": "-90°",
+   "prompt": "World Countries By Latitude",
+   "rightLabel": "90°",
+   "trash": [
+    {
+     "longText": "Sydney",
+     "shortText": "Sydney"
+    },
+    {
+     "longText": "Munich",
+     "shortText": "Munich"
+    },
+    {
+     "longText": "Córdoba",
+     "shortText": "Córdoba"
+    },
+    {
+     "longText": "Osaka",
+     "shortText": "Osaka"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
+    "quix-history"
+   ],
+   "countrySpecific": false,
+   "difficulty": "easy",
+   "id": "100041",
+   "isValid": "",
+   "items": [
+    {
+     "displayValue": "1st Jan",
+     "longText": "New Year's",
+     "shortText": "New Year's"
+    },
+    {
+     "displayValue": "14th Feb",
+     "longText": "Valentine's Day",
+     "shortText": "Valentine's Day"
+    },
+    {
+     "displayValue": "30th Mar",
+     "longText": "Mother's Day",
+     "shortText": "Mother's Day"
+    },
+    {
+     "displayValue": "22nd April",
+     "longText": "Earth Day",
+     "shortText": "Earth Day"
+    },
+    {
+     "displayValue": "6th Oct",
+     "longText": "Mid-Autumn Festival",
+     "shortText": "Mid-Autumn Fest"
+    },
+    {
+     "displayValue": "31st Oct",
+     "longText": "Halloween",
+     "shortText": "Halloween"
+    },
+    {
+     "displayValue": "5th Nov",
+     "longText": "Bonfire Night",
+     "shortText": "Bonfire Night"
+    },
+    {
+     "displayValue": "28th Nov",
+     "longText": "Thanksgiving",
+     "shortText": "Thanksgiving"
+    },
+    {
+     "displayValue": "25th Dec",
+     "longText": "Christmas",
+     "shortText": "Christmas"
+    }
+   ],
+   "leftLabel": "January",
+   "prompt": "Holidays of the Year",
+   "rightLabel": "December",
+   "trash": [
+    {
+     "longText": "Radixort's Birthday",
+     "shortText": "Radixort's Birthday"
+    },
+    {
+     "longText": "Moon Day",
+     "shortText": "Moon Day"
+    },
+    {
+     "longText": "Jackbox Night",
+     "shortText": "Jackbox Night"
+    },
+    {
+     "longText": "Walpurgistag",
+     "shortText": "Walpurgistag"
+    }
+   ],
+   "x": false
+  },
+  {
+   "categories": [
     "quix-placeholder"
    ],
    "countrySpecific": true,
